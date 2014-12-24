@@ -1,35 +1,17 @@
 ---
 layout: post
 title: "Hello, Cosette"
-quote: Thinny reaches a new version, with mobile support and some other cool features.
+quote: This is the very first post of my personal website.
 image: /assets/images/cover.jpg
 video: false
 ---
 
-#Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+#So what do we do here?"
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
-
-{% include image.html url="/media/2014-02-26-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
-
-This new version of Thinny comes with mobile support and some bugfixes.
-
-## Usage
-
-### Main variables
-
-The global variables are set on the `_config.yml` file.
-
-To start, you need to change at least the variable `url` on the file.
-
-#### Social links
-
-To add a social link you just need to add the following code inside the variable `social`:
+We can stick with the simple and mainstream first post for websites:
 
 ```
-  - icon:	[the genericon name for the social network]
-    url:	[the url to follow]
-    desc:	[a small description for the link (e.g. "Follow me on twitter")]
+printf("Hello world.")
 ```
 
 #### Menu
