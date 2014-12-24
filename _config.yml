@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Stefanos Michael
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		http://stefanos990.github.io
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Stefanos Michael'
+  url:		http://stefanos990.github.io
 
 paginate:	5
 
@@ -33,7 +33,7 @@ social:
   - icon: linkedin
     url:  http://t.co/ujtnCQDvC6
     desc: Connect me on LinkedIn
-    
+
   - icon:	flickr
     url:	https://www.flickr.com/people/stefanos990/
     desc:	Follow me on Flickr
@@ -46,9 +46,11 @@ menu:
     
   - title:	About
     url:	/about
-    
+
+  - title:  Projects
+    url:  /projects
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	Stefanos Michael
+  url:		http://stefanos990.github.io
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
