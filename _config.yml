@@ -23,15 +23,15 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/stefanos990
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/stefanos990
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+  - icon:	facebook
+    url:	https://facebook.com/stefanos990
     desc:	Add me on google+
 
   - icon:	feed
