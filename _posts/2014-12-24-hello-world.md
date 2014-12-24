@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Cosette"
+title: "Hello World"
 quote: Thinny reaches a new version, with mobile support and some other cool features.
 image: /assets/images/cover.jpg
 video: false
