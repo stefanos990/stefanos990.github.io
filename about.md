@@ -4,7 +4,7 @@ title: About me, the life, the universe and everything more.
 ---
 
 <div class="message">
-  This page will be ready soon! Meanwhile, stay with this beautiful latin text below.
+  Who is the mighty Stefanos Michael?
 </div>
 
 I am Stefanos Michael and I was born in a small town in Cyprus, called Paralimni. I am currently studying Electrical & Computer Engineering at University of Patras, Greece. 
