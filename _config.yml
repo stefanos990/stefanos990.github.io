@@ -22,21 +22,23 @@ icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
 
 social:
+  - icon: facebook
+    url:  https://facebook.com/stefanos990
+    desc: Add me on Facebook
+
   - icon:	twitter
     url:	https://twitter.com/stefanos990
-    desc:	Follow me on twitter
+    desc:	Follow me on Twitter
 
-  - icon:	github
-    url:	https://github.com/stefanos990
-    desc:	Fork me on github
+  - icon: linkedin
+    url:  http://t.co/ujtnCQDvC6
+    desc: Connect me on LinkedIn
+    
+  - icon:	flickr
+    url:	https://www.flickr.com/people/stefanos990/
+    desc:	Follow me on Flickr
 
-  - icon:	facebook
-    url:	https://facebook.com/stefanos990
-    desc:	Add me on google+
 
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
     
 menu:
   - title:	Home
