@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Cosette"
+title: "Hello world"
 quote: This is the very first post of my personal website.
 image: /assets/images/cover.jpg
 video: false
