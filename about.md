@@ -11,6 +11,6 @@ I am <strong>Stefanos Michael</strong> and I were born in a small town in Cyprus
 
 I know a bunch of programming languages and I use designing tools like a boss.
 
-At the moment I am working with <a href="http://www.ldkge.com">George Lydakis</a>, a friend of mine, on Collaborative Robotics and specifically on <strong>C</strong>ollaborative <strong>L</strong>ocalization <strong>U</strong>sing a <strong>V</strong>isual <strong>I</strong>nertia <strong>N</strong>avigation <strong>S</strong>ystem <strong>I</strong>n <strong>E</strong>vader <strong>P</strong>ursuer <strong>M</strong>aneuvers. You can read more on the dissertation log.
+At the moment I am working with <a href="http://www.ldkge.com">George Lydakis</a>, a friend of mine, on Collaborative Robotics and specifically on <strong>C</strong>ollaborative <strong>L</strong>ocalization <strong>U</strong>sing a <strong>V</strong>isual-<strong>I</strong>nertia <strong>N</strong>avigation <strong>S</strong>ystem <strong>I</strong>n <strong>E</strong>vader-<strong>P</strong>ursuer <strong>M</strong>aneuvers. You can read more on the dissertation log.
 
 That's all folks, for now!
