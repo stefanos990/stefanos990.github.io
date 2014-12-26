@@ -7,7 +7,7 @@ permalink:	/blog/:title
 
 # Setup
 title:		Stefanos Michael
-tagline:	'blog'
+tagline:	
 description:	'My personal blog.'
 url:		http://stefanos990.github.io
 
@@ -49,6 +49,9 @@ menu:
 
   - title:	About
     url:	/about
+
+  - title: CV
+    url: /cv
 
 
 copyright:
