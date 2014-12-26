@@ -41,13 +41,13 @@ social:
 
     
 menu:
-  - title:	Home
+  - title:	home
     url:	/
 
-  - title:  Projects
+  - title:  projects
     url:  /projects
 
-  - title:	About
+  - title:	about
     url:	/about
 
   - title: CV
