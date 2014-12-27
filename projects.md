@@ -7,10 +7,11 @@ title: My projects
   What remarkable projects have I done till now?
 </div>
 
-|---
+
+<p>|---
 | Name | Genre | Platform
 |:-:|:-:|:-:
-| [Lexis](https://www.windowsphone.com/en-us/store/app/lexis/07ed7bb9-0ad8-40b3-9a73-2d6b383cc74d) | Puzzle Game | [Windows Phone](https://www.windowsphone.com/en-us/store/app/lexis/07ed7bb9-0ad8-40b3-9a73-2d6b383cc74d)
-| [Count to 10](https://github.com/camporez/Thinny/releases/tag/v2.0-bianca) | [Bianca](http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm) | Windows Phone
-| 2.1 | [Cosette](http://lesmiserables.wikia.com/wiki/Cosette) | Jekyll
-|---
+| <a href="https://www.windowsphone.com/en-us/store/app/lexis/07ed7bb9-0ad8-40b3-9a73-2d6b383cc74d">Lexis</a> |Puzzle Game| <a href="https://www.windowsphone.com/en-us/store/app/lexis/07ed7bb9-0ad8-40b3-9a73-2d6b383cc74d">Windows Phone</a> 
+| <a href="https://github.com/camporez/Thinny/releases/tag/v2.0-bianca">2.0</a> | <a href="http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm">Bianca</a> | Jekyll
+| 2.1 | <a href="http://lesmiserables.wikia.com/wiki/Cosette">Cosette</a> | Jekyll
+|---</p>
