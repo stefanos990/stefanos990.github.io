@@ -7,6 +7,8 @@ title: My projects
   What remarkable projects have I done till now?
 </div>
 
+<h3>
+<a id="user-content-table" class="anchor" href="#table" aria-hidden="true"><span class="octicon octicon-link"></span></a>Table</h3>
 
 <p>|---
 | Name | Genre | Platform
