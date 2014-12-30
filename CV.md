@@ -4,6 +4,5 @@ title: CV
 ---
 
 <div class="message">
-  Hold on there tiger. Coming soon! 
-</div>
+  Hold on there tiger. Coming soon!</div>
 
