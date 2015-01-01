@@ -8,9 +8,5 @@ title: Projects
 </div>
 
 <p><table>
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|--- | Version | Codename | Platform |:-:|:-:|:-: | 0.3 | Alexandra | Ghost 0.3.x | 2.0 | Bianca | Jekyll | 2.1 | Cosette | Jekyll |---
 </table></p>
