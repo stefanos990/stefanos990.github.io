@@ -7,7 +7,8 @@ title: Projects
   Take a look at some of the projects I've done so far.  
 </div>
 
-<table align="center">
+<div style="text-align:center;">
+<table>
   <tr>
     <th>Name</th>
     <th>Genre</th>		
@@ -55,6 +56,7 @@ title: Projects
     <td align="center">Tools / Education</td>		
     <td align="center"><a href="http://www.windowsphone.com/en-us/store/app/polz/70cd09a6-b5bb-4c4e-9f92-3fef0ad76464" target="_blank">Windows Phone</a> / <a href="http://apps.microsoft.com/windows/en-us/app/polz/6e2997cf-1be4-4fe9-a943-13dd72f237a0" target="_blank">Windows 8.x</a></td>
   </tr> 
+</div>
 
   <tr>
     <td align="center">Wallpapr</td>
