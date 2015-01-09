@@ -72,3 +72,5 @@ title: Projects
 <div class="message">
   At the moment I am working on CLUVINSIEPM for my thesis.  
 </div>
+You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php/portfolio/cluvinsiepm/" target="_blank">Dissertation Log</a>.
+
