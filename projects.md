@@ -4,7 +4,7 @@ title: Projects
 ---
 
 <div class="message">
-  Take a look at some of the projects I've done so far.  
+  Take a look at some projects I've done so far.  
 </div>
 
 <table align="center">
