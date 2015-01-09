@@ -7,5 +7,50 @@ title: Projects
   Hold on there tiger. Coming soon! 
 </div>
 
-<table>|--- | Version | Codename | Platform |:-:|:-:|:-: | 0.3 | Alexandra | Ghost 0.3.x | 2.0 | Bianca | Jekyll | 2.1 | Cosette | Jekyll |---
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Genre</th>		
+    <th>Platform</th>
+  </tr>
+  <tr>
+    <td>Lexis</td>
+    <td>Puzzle Game</td>		
+    <td>Windows Phone</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>		
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>		
+    <td>80</td>
+  </tr>
+</table>
+
+<br>
+
+<table id="t01">
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>		
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>		
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>		
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>		
+    <td>80</td>
+  </tr>
 </table>
