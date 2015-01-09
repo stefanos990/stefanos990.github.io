@@ -3,8 +3,8 @@ layout: page
 title: Projects
 ---
 
-<div class="message">
-  Hold on there tiger. Coming soon! 
+<div class="warning">
+  Take a look at some of the projects I've done so far.  
 </div>
 
 <table align="center">
