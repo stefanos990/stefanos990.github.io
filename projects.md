@@ -68,7 +68,7 @@ title: Projects
     <td align="center"><a href="http://www.windowsphone.com/en-us/store/app/write/252fe877-c47c-4c7e-8e72-ea92ee583b91" target="_blank">Windows Phone</a> / <a href="http://apps.microsoft.com/windows/en-us/app/2af999dd-9df9-4b8d-a11b-b7c85e69c2f4" target="_blank">Windows 8.x</a></td>
   </tr>  
 </table>
-
+<br>
 <div class="message">
   At the moment I am working on CLUVINSIEPM for my thesis.  
 </div>
