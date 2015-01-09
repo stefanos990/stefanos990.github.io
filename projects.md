@@ -19,38 +19,18 @@ title: Projects
     <td>Windows Phone</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>		
-    <td>94</td>
+    <td>Count to 10</td>
+    <td>Action Game</td>		
+    <td>Windows Phone</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>		
-    <td>80</td>
-  </tr>
-</table>
-
-<br>
-
-<table id="t01">
-  <tr>
-    <th>First Name</th>
-    <th>Last Name</th>		
-    <th>Points</th>
+    <td>Ani</td>
+    <td>Puzzle Game</td>		
+    <td>Windows Phone</td>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>		
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>		
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>		
-    <td>80</td>
+    <td>Illuminate</td>
+    <td>Puzzle Game</td>		
+    <td>Windows Phone / Windows 8.x</td>
   </tr>
 </table>
