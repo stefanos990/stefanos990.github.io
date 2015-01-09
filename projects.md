@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-<div class="warning">
+<div class="message">
   Take a look at some of the projects I've done so far.  
 </div>
 
