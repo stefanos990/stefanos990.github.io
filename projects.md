@@ -7,30 +7,30 @@ title: Projects
   Hold on there tiger. Coming soon! 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <th>Name</th>
     <th>Genre</th>		
     <th>Platform</th>
   </tr>
   <tr>
-    <td>Lexis</td>
-    <td>Puzzle Game</td>		
-    <td>Windows Phone</td>
+    <td align="center">Lexis</td>
+    <td align="center">Puzzle Game</td>		
+    <td align="center">Windows Phone</td>
   </tr>
   <tr>
-    <td>Count to 10</td>
-    <td>Action Game</td>		
-    <td>Windows Phone</td>
+    <td align="center">Count to 10</td>
+    <td align="center">Action Game</td>		
+    <td align="center">Windows Phone</td>
   </tr>
   <tr>
-    <td>Ani</td>
-    <td>Puzzle Game</td>		
-    <td>Windows Phone</td>
+    <td align="center">Ani</td>
+    <td align="center">Puzzle Game</td>		
+    <td align="center">Windows Phone</td>
   </tr>
   <tr>
-    <td>Illuminate</td>
-    <td>Puzzle Game</td>		
-    <td>Windows Phone / Windows 8.x</td>
+    <td align="center">Illuminate</td>
+    <td align="center">Puzzle Game</td>		
+    <td align="center">Windows Phone / Windows 8.x</td>
   </tr>
 </table>
