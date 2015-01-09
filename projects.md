@@ -16,17 +16,17 @@ title: Projects
   <tr>
     <td align="center">Lexis</td>
     <td align="center">Puzzle Game</td>		
-    <td align="center">Windows Phone</td>
+    <td align="center"><a href="http://www.windowsphone.com/en-us/store/app/lexis/07ed7bb9-0ad8-40b3-9a73-2d6b383cc74d">Windows Phone</a></td>
   </tr>
   <tr>
     <td align="center">Count to 10</td>
     <td align="center">Action Game</td>		
-    <td align="center">Windows Phone</td>
+    <td align="center"><a href="http://www.windowsphone.com/en-us/store/app/count-to-10/ce6964a1-2295-45db-a549-f085bc4478e1">Windows Phone</a></td>
   </tr>
   <tr>
     <td align="center">Ani</td>
     <td align="center">Puzzle Game</td>		
-    <td align="center">Windows Phone</td>
+    <td align="center"><a href="http://www.windowsphone.com/en-us/store/app/animate/8ba2b8ac-0c82-4ac5-af37-e0f2a8a60d92">Windows Phone</a></td>
   </tr>
   <tr>
     <td align="center">Illuminate</td>
