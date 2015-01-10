@@ -3,14 +3,6 @@ layout: page
 title: Blog
 ---
 
-<header class="clean" style="height: 350px; background-image: url({{ site.cover }});">
-	{% include top.html %}
-	<div id="home-title">
-		<a href="{{ site.url }}">
-			<img src="{{ site.icon }}" class="site-icon">
-		</a>
-	</div>
-</header>
 <div id="post-list">
 	{% for post in paginator.posts %}
 		<div>
@@ -34,6 +26,3 @@ title: Blog
 		{% endif %}
 	{% endif %}
 </nav>
-<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; height: 60px;">
-	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a> <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a></p>
-</footer>
