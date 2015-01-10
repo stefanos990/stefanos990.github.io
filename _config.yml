@@ -49,9 +49,6 @@ menu:
   - title:  projects
     url:  /projects
 
-  - title:	blog
-    url:	/blog
-
   - title: CV
     url: /cv
 
