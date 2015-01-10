@@ -3,11 +3,9 @@ layout: page
 title: CV
 ---
 
-```
-Curriculum Vitae
-
-```
 <div class="message">
-  Hold on there tiger. Coming soon!
+  Curriculum Vitae
 </div>
+
+<strong>Experience</strong>
 
