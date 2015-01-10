@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Blog
 ---
 
 <header class="clean" style="height: 350px; background-image: url({{ site.cover }});">
