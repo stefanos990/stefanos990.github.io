@@ -40,6 +40,6 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 <ul class="task-list">
 <li><strong>IEEE</strong> - <em>Student Member</em> (January 2011 - present)<br>
 IEEE is the world's largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, technology standards, and professional and educational activities.</li>
-<li><strong>StudentGuru Patras</strong> - Member (October 2012 - present)<br>
+<li><strong>StudentGuru Patras</strong> - <em>Member</em> (October 2012 - present)<br>
 StudentGuru is one of the biggest student forums in Greece with more than 14.000 members, focusing on technology. Its offline events are organised by local communities. StudentGuru Patras is the first academic community in University of Patras majoring in Microsoft .NET related technologies. It was founded in October 2009 and its main vision is to bring students closer to popular technologies.</li>
 </ul>
