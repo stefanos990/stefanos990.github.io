@@ -340,11 +340,11 @@ pre code {
 }
 
 .menu:hover, .menu:active  {
-	background-color: #46aeff;
+	background-color: #777;
 }
 
 .menu-content {
-	background-color: #46aeff;
+	background-color: #777;
 	width: auto;
 	top: 40px;
 	left: 14px;
