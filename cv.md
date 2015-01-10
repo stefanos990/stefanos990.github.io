@@ -17,3 +17,10 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 </ul>
 
 <strong>Education</strong>
+
+<strong>Spoken Languages</strong>
+
+<strong>Programming Skills</strong>
+
+<strong>Organizations</strong>
+
