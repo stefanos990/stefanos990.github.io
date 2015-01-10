@@ -40,6 +40,8 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 <li><strong>C/C++</strong></li>
 <li><strong>Python</strong></li>
 <li><strong>Prolog</strong></li>
+<li><strong>Pascal</strong></li>
+<li><strong>Visual Basic</strong></li>
 <li><strong>VHDL</strong></li>
 <li><strong>MATLAB</strong></li>
 <li><strong>HTML/CSS</strong></li>
