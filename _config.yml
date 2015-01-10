@@ -43,14 +43,14 @@ social:
 
     
 menu:
-  - title:	about
+  - title:	home
     url:	/
 
   - title:  projects
     url:  /projects
 
-  - title:	about
-    url:	/about
+  - title:	blog
+    url:	/blog
 
   - title: CV
     url: /cv
