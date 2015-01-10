@@ -5,7 +5,7 @@ redcarpet:
 pygments:	true
 
 # Permalinks
-permalink:	/blog/:title
+permalink:	/:title
 
 # Setup
 title:		Stefanos Michael
@@ -50,7 +50,7 @@ menu:
     url:  /projects
 
   - title:	blog
-    url:	/myblog
+    url:	/blog
 
   - title: CV
     url: /cv
