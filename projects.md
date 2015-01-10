@@ -15,7 +15,7 @@ title: Projects
   </tr>
 
   <tr>
-    <td align="center">Ani</td>
+    <td align="center">Animate</td>
     <td align="center">Puzzle Games</td>		
     <td align="center"><a href="http://www.windowsphone.com/en-us/store/app/animate/8ba2b8ac-0c82-4ac5-af37-e0f2a8a60d92" target="_blank">Windows Phone</a></td>
   </tr> 
