@@ -18,7 +18,20 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 
 <strong>Education</strong>
 
-<strong>Spoken Languages</strong>
+<ul class="task-list">
+<li><strong>University of Patras</strong> - <em>Electrical & Computer Engineering</em><br>
+<strong>Degree</strong> - <em>Master of Engineering</em><br>
+<strong>Current GPA</strong> - <em>7.18 / 10.00</em></li>
+<li><strong>Paralimni Lyceum</strong> - <em>High School</em><br>
+<strong>GPA</strong> - <em>19.75 / 20.00</em></li>
+</ul>
+
+<strong>Languages</strong>
+
+<ul class="task-list">
+<li><strong>Greek</strong> - <em>Native</em></li>
+<li><strong>English</strong> - <em>Level C2</em></li>
+</ul>
 
 <strong>Programming Skills</strong>
 
