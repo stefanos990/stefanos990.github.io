@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A 555 astable keyboard
+title: A 555 Astable Keyboard
 ---
 
 <div class="message">
