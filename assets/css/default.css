@@ -140,6 +140,15 @@ img.site-icon-page {
 	margin-top: -150px;
 	border-radius: 50%;
 	position: absolute;
+	transition-duration: .25s;
+	opacity: .9;
+}
+
+img.site-icon-page:hover {
+	margin-top: -80px;
+	width: 160px;
+	height: 160px;
+	opacity: 1;
 }
 
 #nav-icon {
