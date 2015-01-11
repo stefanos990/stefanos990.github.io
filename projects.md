@@ -85,8 +85,9 @@ title: Projects
   At the moment I am working on <abbr title="Collaborative Localization Using a Visual-Inertia Navigation System In Evader-Pursuer Maneuvers">CLUVINSIEPM</abbr> for my thesis.  
 </div>
 You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php/portfolio/cluvinsiepm/" target="_blank">Dissertation Log</a>.
+
 <br>
 <div class="message">
   A 555 Astable Keyboard.  
 </div>
-{% include image.html url="/media/555/555.jpg" width="100%" description="You can read more about it here." %}
+{% include image.html url="/media/555/555.jpg" width="50%" description="You can read more about it here." %}
