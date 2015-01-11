@@ -89,4 +89,4 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 <div class="message">
   A 555 Astable Keyboard.  
 </div>
-You can read more about it on <a href="../projects/555.md" target="_blank">Dissertation Log</a>.
+You can read more about it on .
