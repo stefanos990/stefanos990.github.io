@@ -136,7 +136,7 @@ img.site-icon-small {
 img.site-icon-page {
 	width: 150px;
 	height: 150px;
-	margin-left: -90px;
+	margin-left: -80px;
 	margin-top: -150px;
 	border-radius: 50%;
 	position: absolute;
@@ -145,7 +145,7 @@ img.site-icon-page {
 }
 
 img.site-icon-page:hover {
-	margin-left: -95px;
+	margin-left: -85px;
 	margin-top: -155px;
 	width: 160px;
 	height: 160px;
