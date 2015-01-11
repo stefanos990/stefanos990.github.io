@@ -141,7 +141,7 @@ img.site-icon-page {
 	border-radius: 50%;
 	position: absolute;
 	transition-duration: .25s;
-	opacity: .9;
+	opacity: 1;
 }
 
 img.site-icon-page:hover {
