@@ -49,6 +49,9 @@ menu:
   - title:  projects
     url:  /projects
 
+  - title:  dashboard
+    url:  /dashboard
+
   - title: CV
     url: /cv
 

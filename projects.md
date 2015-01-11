@@ -4,7 +4,7 @@ title: Projects
 ---
 
 <div class="message">
-  Take a look at some projects I've done so far.  
+  Take a look at some projects I've done for <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a> so far.  
 </div>
 
 <table align="center">
