@@ -88,6 +88,6 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 
 <br>
 <div class="message">
-  A 555 Astable Keyboard.  
+  <a href="" target="_blank">A 555 Astable Keyboard</a>.  
 </div>
-{% include image.html url="/media/555/555.jpg" width="50%" description="You can read more about it here." %}
+{% include image.html url="/media/555/555.jpg" width="50%" %}
