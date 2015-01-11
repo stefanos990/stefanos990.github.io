@@ -88,5 +88,5 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 
 <br>
 <div class="message">
-  <a href="../projects/2014-12-24-hello-world" target="_blank">A 555 Astable Keyboard</a>
+  <a href="../projects/hello-world" target="_blank">A 555 Astable Keyboard</a>
 </div>
