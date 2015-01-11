@@ -90,4 +90,4 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 <div class="message">
   <a href="../projects/555_astable_keyboard">A 555 Astable Keyboard</a>
 </div>
-<img src="../projects/555.jpg" alt="A 555 Astable Keyboard" border="5">
+<img src="../projects/555.jpg" alt="A 555 Astable Keyboard">
