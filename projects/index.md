@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-
+<?php include_once("analyticstracking.php") ?>
 <div class="message">
   Take a look at some projects I've done for <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a> so far.  
 </div>
@@ -91,14 +91,3 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
   <a href="../projects/555_astable_keyboard">A 555 Astable Keyboard</a>
 </div>
 <img src="../projects/555.jpg" alt="A 555 Astable Keyboard">
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58975019-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
