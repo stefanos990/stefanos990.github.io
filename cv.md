@@ -33,7 +33,7 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 <li><strong>English</strong> - <em>Level C2</em></li>
 </ul>
 
-<img src="../assets/images/skills.png" alt="Programming Skills"> <strong>Programming Skills</strong>
+<img src="../assets/images/skills.png" alt="Programming Skills" style="vertical-align:middle;"> <strong>Programming Skills</strong>
 
 <ul class="task-list">
 <li><strong>C#</strong></li>
