@@ -90,7 +90,7 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 <div class="message">
   <a href="../projects/555_astable_keyboard">A 555 Astable Keyboard</a>
 </div>
-<img src="../projects/555.jpg" alt="A 555 Astable Keyboard">
+<img src="../projects/555.jpg height="50%" width="50%" alt="A 555 Astable Keyboard">
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
