@@ -1,6 +1,9 @@
 ---
-layout: page
-title: A 555 Astable Keyboard
+layout: project
+title: "A 555 Astable Keyboard"
+quote: This is the very first post of my personal website.
+image: /assets/images/cover.jpg
+video: false
 ---
 
 <div class="message">
