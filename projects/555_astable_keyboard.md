@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "A 555 Astable Keyboard"
-quote: This is the very first post of my personal website.
-date: 01 January 2015
-image: /assets/images/cover.jpg
+quote: How I made an astable keyboard using a 555 timer.
+image: /projects/555.jpg
 video: false
 ---
 
