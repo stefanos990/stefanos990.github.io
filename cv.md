@@ -58,7 +58,7 @@ IEEE is the world's largest professional association dedicated to advancing tech
 StudentGuru is one of the biggest student forums in Greece with more than 14.000 members, focusing on technology. Its offline events are organised by local communities. StudentGuru Patras is the first academic community in University of Patras majoring in Microsoft .NET related technologies. It was founded in October 2009 and its main vision is to bring students closer to popular technologies.</li>
 </ul>
 
-<strong>Interests</strong>
+<strong>Interests</strong><br>
 Tech, Robotics, Nature, Soccer, Free-Diving, Fishing, Music
 
 <div class="message">
