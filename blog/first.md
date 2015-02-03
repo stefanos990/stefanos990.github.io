@@ -17,7 +17,7 @@ Quisque sed nibh suscipit, vulputate ex vitae, eleifend lacus. Vestibulum in ero
 Quisque nec elit sit amet dui laoreet accumsan. Aenean facilisis tortor vitae nibh viverra vulputate. Ut vel nisi accumsan, feugiat tellus nec, tempus enim. Phasellus non quam in purus iaculis interdum. Nulla at maximus lacus, non posuere nisi. Curabitur at lorem sit amet nisl viverra malesuada. Etiam elementum, nulla a varius malesuada, lorem purus consectetur neque, quis lobortis quam eros id leo. Vestibulum venenatis faucibus nisi id interdum. Vivamus vel ligula eleifend, iaculis augue quis, viverra quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus et rutrum sem, non dictum purus.
 
 <div>
-<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/blog/first/&amp;layout=button_count&amp;appId=460671367340473" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/blog/first/&amp;layout=button_count&amp;appId=460671367340473" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
 
 <iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/blog/first/&amp;text=First Blog Post"></iframe>
 </div>
