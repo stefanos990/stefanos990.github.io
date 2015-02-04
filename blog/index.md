@@ -1,6 +1,6 @@
 
 ---
-layout: project
+layout: default
 title: Blog
 ---
 
