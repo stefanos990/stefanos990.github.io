@@ -11,7 +11,7 @@ title: Blog
 	</a>
 </header>
 <div id="middle">
-<div id="post-list">
+<!-- <div id="post-list">
 	{% for post in paginator.posts %}
 		<div>
 			<span class="post-date">{{ post.date | date_to_long_string }}</span>
@@ -20,7 +20,7 @@ title: Blog
 		</div>
 		<br>
 	{% endfor %}
-</div>
+</div> -->
 <nav class="pagination" role="navigation">
 	{% if paginator.next_page %}
 		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
