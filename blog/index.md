@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: blog
 title: Blog
-image: /assets/images/blog.jpg
 ---
 
 <div class="message">
