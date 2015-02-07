@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header class="clean" style="height: 350px; background-image: ../assets/images/cover.jpg;">
+<header class="clean" style="height: 350px; background-image: url({{ site.blog }});">
 	{% include top.html %}
 	<div id="home-title">
 		<a href="{{ site.url }}">
@@ -16,6 +16,6 @@ layout: default
 <div id="article">
 	{{ content }}
 </div>
-<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; height: 60px;">
+<footer class="clean" style="background-image: url({{ site.blog }}); background-position: bottom; height: 60px;">
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a><a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a></p>
 </footer>
