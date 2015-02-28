@@ -4,10 +4,15 @@ title: Dashboard
 ---
 
 <div class="message">
-  Hold on there, tiger. Coming soon.
+  My weekly music charts
 </div>
 
-<a href="http://www.last.fm/user/stefanos990/?chartstyle=tracksAuto"><img src="http://imagegen.last.fm/tracksAuto/tracks/3/stefanos990.gif" border="0" /></a>
+<a href="http://www.last.fm/user/stefanos990/?chartstyle=SidebarBlue"><img src="http://imagegen.last.fm/SidebarBlue/otracks/3/stefanos990.gif" border="0" /></a>
+
+<div class="message">
+  Soon more dashboards are coming!
+</div>
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
