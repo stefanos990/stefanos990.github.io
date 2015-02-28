@@ -7,6 +7,8 @@ title: Dashboard
   Hold on there, tiger. Coming soon.
 </div>
 
+<a href="http://www.last.fm/user/stefanos990/?chartstyle=SidebarBlue"><img src="http://imagegen.last.fm/SidebarBlue/recenttracks/stefanos990.gif" border="0" alt="stefanos990's Profile Page" /></a>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
