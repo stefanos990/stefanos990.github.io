@@ -4,13 +4,7 @@ title: Dashboard
 ---
 
 <div class="message">
-  My weekly music charts
-</div>
-
-<a href="http://www.last.fm/user/stefanos990/?chartstyle=SidebarBlue"><img src="http://imagegen.last.fm/SidebarBlue/otracks/3/stefanos990.gif" border="0" /></a>
-
-<div class="message">
-  Soon more dashboards are coming!
+  Hold on there tiger! Coming soon.
 </div>
 
 
