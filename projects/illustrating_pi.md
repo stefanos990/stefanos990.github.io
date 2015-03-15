@@ -13,7 +13,7 @@ Being an irrational number, π cannot be expressed exactly as a common fraction,
 More on Pi: <a href="http://en.wikipedia.org/wiki/Pi" target="_blank">Wikipedia</a>
 
 <div class="message">
-  The Illustrating Concept
+  The Illustration Concept
 </div>
 
 So what's the concept here? I thought, what if I could match each of pi's digits to a direction and then draw some of them to see the illustration of some of pi's digits? And so I did. Here is the matching table and the direction concept explained graphically.
@@ -21,7 +21,7 @@ So what's the concept here? I thought, what if I could match each of pi's digits
 <table align="center">
   <tr>
     <th>Digit</th>
-    <th>Direction Angle</th>		
+    <th>Angle</th>		
     <th>Direction</th>
     <th>Compass</th>
   </tr>
@@ -81,7 +81,40 @@ So what's the concept here? I thought, what if I could match each of pi's digits
     <td align="center">East</td>
   </tr>    
 </table>
+<br>
 
+<div class="message">
+  The Code Implementation
+</div>
+
+Since I kinda like Python, I used turtle library with Python to read pi's first 10k digits from a text file, put them in a list and then after the matching method let the turtle make some drawing!
+
+<code>
+from turtle import*
+reset()
+
+def move(digit,d):
+    if digit!=0:
+        left((digit-1)*45)      
+        forward(d)
+    return
+
+pencolor('white')
+sety(150)
+pencolor('black')
+speed(0)
+width(1)
+
+fd = open('pi10k.txt','rU')
+pi_digits = [3]
+for line in fd:
+   for c in line:
+       d=int(c)
+       pi_digits.append(d)
+       
+for member in pi_digits:
+    move(member,5);
+</code>
 <div>
 <iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/blog/first/&amp;layout=button_count&amp;appId=460671367340473" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
 
