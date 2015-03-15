@@ -29,56 +29,56 @@ So what's the concept here? I thought, what if I could match each of pi's digits
   <tr>
     <td align="center">1</td>
     <td align="center">0°</td>		
-    <td align="center">East (E)</td>
+    <td align="center">East</td>
     <th rowspan="9"><img src="compass.png" alt="Compass" style="width:75%"> </th>
   </tr> 
 
   <tr>
     <td align="center">2</td>
     <td align="center">45°</td>		
-    <td align="center">Northeast (NE)</td>
+    <td align="center">Northeast</td>
   </tr> 
 
   <tr>
     <td align="center">3</td>
     <td align="center">90°</td>		
-    <td align="center">North (N)</td>
+    <td align="center">North</td>
   </tr> 
 
    <tr>
     <td align="center">4</td>
     <td align="center">135°</td>		
-    <td align="center">Northwest (NW)</td>
+    <td align="center">Northwest</td>
   </tr> 
 
    <tr>
     <td align="center">5</td>
     <td align="center">180°</td>		
-    <td align="center">West (W)</td>
+    <td align="center">West</td>
   </tr> 
 
    <tr>
     <td align="center">6</td>
     <td align="center">225°</td>		
-    <td align="center">Southwest (SW)</td>
+    <td align="center">Southwest</td>
   </tr> 
 
    <tr>
     <td align="center">7</td>
     <td align="center">270°</td>		
-    <td align="center">South (S)</td>
+    <td align="center">South</td>
   </tr>  
 
   <tr>
     <td align="center">8</td>
     <td align="center">315°</td>		
-    <td align="center">East (E)</td>
+    <td align="center">Southeast</td>
   </tr> 
 
    <tr>
     <td align="center">9</td>
     <td align="center">360°</td>		
-    <td align="center">Southeast (SE)</td>
+    <td align="center">East</td>
   </tr>    
 </table>
 
