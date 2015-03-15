@@ -10,7 +10,7 @@ The number <strong>π</strong> is a mathematical constant, the ratio of a circle
 Being an irrational number, π cannot be expressed exactly as a common fraction, although fractions such as 22/7 and other rational numbers are commonly used to approximate π. Consequently its decimal representation never ends and never settles into a permanent repeating pattern. The digits appear to be randomly distributed; however, to date, no proof of this has been discovered.
 
 More on Pi: <a href="http://en.wikipedia.org/wiki/Pi" target="_blank">Wikipedia</a>
-
+<br>
 <div class="message">
   The Illustration Concept
 </div>
@@ -84,7 +84,7 @@ So what's the concept here? I thought, what if I could match each of pi's digits
 <div class="message">
   The Code Implementation
 </div>
-Since I kinda like Python, I used turtle library with Python to read pi's first 10,000 digits from a <a href="../projects/pi10k.png">text</a> file, put them in a list and then after the matching method let the turtle make some drawing!
+Since I kinda like Python, I used turtle library with Python to read pi's first 10,000 digits from a <a href="../projects/pi10k.txt">text</a> file, put them in a list and then after the matching method let the turtle make some drawing!
 
 <div><script src="http://pastebin.com/embed_js.php?i=Uy2JCPGE"></script></div>
 
