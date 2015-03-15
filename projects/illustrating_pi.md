@@ -5,7 +5,7 @@ title: Illustrating Pi
 <div class="message">
   What is "Pi"?
 </div>
-The number <strong><abbr title="3.14159..">π</abbr></strong> is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi" (/paɪ/).
+The number <strong>π</strong> is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi" (/paɪ/).
 
 Being an irrational number, π cannot be expressed exactly as a common fraction, although fractions such as 22/7 and other rational numbers are commonly used to approximate π. Consequently its decimal representation never ends and never settles into a permanent repeating pattern. The digits appear to be randomly distributed; however, to date, no proof of this has been discovered.
 
@@ -84,7 +84,7 @@ So what's the concept here? I thought, what if I could match each of pi's digits
 <div class="message">
   The Code Implementation
 </div>
-Since I kinda like Python, I used turtle library with Python to read pi's first 10k digits from a text file, put them in a list and then after the matching method let the turtle make some drawing!
+Since I kinda like Python, I used turtle library with Python to read pi's first 10,000 digits from a text file, put them in a list and then after the matching method let the turtle make some drawing!
 
 <div><script src="http://pastebin.com/embed_js.php?i=Uy2JCPGE"></script></div>
 
@@ -95,7 +95,7 @@ What if I put some color matching beside direction matching? Hmmm. Things are ge
 <div class="message">
   The Result
 </div>
-Voila! That's how the first 10k pi's digits are illustrated.
+Voila! Here's how the first 10,000 pi's digits are illustrated.
 
 <table align="center">
   <tr>
@@ -104,8 +104,8 @@ Voila! That's how the first 10k pi's digits are illustrated.
   </tr>
 
   <tr>
-    <td align="center"><img src="pi_10k.png" alt="pi_10k"></td>
-    <td align="center"><img src="pi_10k_color.png" alt="pi_10k_color"></td>		
+    <td align="center"><img src="10k.png" alt="10k Digits"></td>
+    <td align="center"><img src="10k_color.png" alt="10k Digits with color"></td>		
   </tr>
   </table>
   <br>
