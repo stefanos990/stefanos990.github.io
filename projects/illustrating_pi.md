@@ -91,7 +91,7 @@ Since I kinda like Python, I used turtle library with Python to read pi's first 
 What if I put some color matching beside direction matching? Hmmm. Things are getting interest and the graphic illustration result should now provide us with more detail about the "randomness" of digits in pi.
 
 <div><script src="http://pastebin.com/embed_js.php?i=8n9L6CZm"></script></div>
-
+<br>
 <div class="message">
   The Result
 </div>
@@ -105,7 +105,7 @@ Voila! That's how the first 10k pi's digits are illustrated.
 
   <tr>
     <td align="center"><img src="10k.png" alt="10k" style="width:75%"></td>
-    <td align="center"><img src="10k_color.png" alt="10k" style="width:75%"></td>		
+    <td align="center"><img src="10k_color.png" alt="10k_color" style="width:75%"></td>		
   </tr>
   </table>
   <br>
