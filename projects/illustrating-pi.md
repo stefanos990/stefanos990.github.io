@@ -88,11 +88,11 @@ So what's the concept here? I thought, what if I could match each of pi's digits
 </div>
 Since I kinda like Python, I used turtle library with Python to read pi's first 10,000 digits from a <a href="../projects/pi10k.txt">text</a> file, put them in a list and then after the matching method let the turtle make some drawing!
 
-<div><script src="https://gist.github.com/stefanos990/c60ec9e884a18bc04da5.js"></script></div>
+<div><script src="https://gist.github.com/stefanos990/644d6c0e0d9e3f025226.js"></script></div>
 <br>
 What if I put some color matching beside direction matching? Hmmm. Things are getting more interesting and the graphic illustration result should now provide us with more information about the "randomness" of digits in pi. The colors I've chosen to represent each digit are: <font color="purple">1</font>, <font color="blue">2</font>, <font color="cyan">3</font>, <font color="green">4</font>, <font color="yellow">5</font>, <font color="orange">6</font>, <font color="red">7</font>, <font color="brown">8</font>, <font color="black">9</font>
 
-<div><script src="https://gist.github.com/stefanos990/644d6c0e0d9e3f025226.js"></script></div>
+<div><script src="https://gist.github.com/stefanos990/c60ec9e884a18bc04da5.js"></script></div>
 <br>
 <div class="message">
   The Result
