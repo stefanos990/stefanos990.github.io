@@ -23,12 +23,14 @@ So what's the concept here? I thought, what if I could match each of pi's digits
     <th>Digit</th>
     <th>Direction Angle</th>		
     <th>Direction</th>
+    <th>Compass</th>
   </tr>
 
   <tr>
     <td align="center">1</td>
     <td align="center">0°</td>		
     <td align="center">East (E)</td>
+    <th rowspan="2"><img src="../compass.png" alt="Compass" </th>
   </tr> 
 
   <tr>
