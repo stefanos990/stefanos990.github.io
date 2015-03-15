@@ -104,7 +104,7 @@ Voila! That's how the first 10k pi's digits are illustrated.
   </tr>
 
   <tr>
-    <td align="center"><img src="compass.png" alt="pi_10k" style="width:75%"></td>
+    <td align="center"><img src="pi_10k.png" alt="pi_10k" style="width:75%"></td>
     <td align="center"><img src="pi_10k_color.png" alt="pi_10k_color" style="width:75%"></td>		
   </tr>
   </table>
