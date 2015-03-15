@@ -88,6 +88,9 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 
 <br>
 
+<div class="message">
+  <a href="../projects/illustrating_pi">Illustrating Pi</a> 
+</div>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
