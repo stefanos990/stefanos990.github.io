@@ -89,7 +89,7 @@ So what's the concept here? I thought, what if I could match each of pi's digits
 
 Since I kinda like Python, I used turtle library with Python to read pi's first 10k digits from a text file, put them in a list and then after the matching method let the turtle make some drawing!
 
-<div><iframe src="http://pastebin.com/embed_iframe.php?i=Uy2JCPGE" style="border:none;width:100%" scrolling='no'></iframe></div>
+<div><script src="http://pastebin.com/embed_js.php?i=Uy2JCPGE"></script></div>
 
 <div>
 <iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/blog/first/&amp;layout=button_count&amp;appId=460671367340473" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
