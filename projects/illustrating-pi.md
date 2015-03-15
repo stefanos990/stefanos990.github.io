@@ -5,7 +5,7 @@ title: Illustrating Pi
 <div class="message">
   What is "Pi"?
 </div>
-The number <strong>π</strong> is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi" (<a href="https://translate.google.com/translate_tts?ie=UTF-8&q=pi&tl=en&total=1&idx=0&textlen=7&client=t&prev=input">/paɪ/</a>).
+The number <strong>π</strong> is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi" (<a href="https://translate.google.com/translate_tts?ie=UTF-8&q=pi&tl=en&total=1&idx=0&textlen=7&client=t&prev=input">&#128266;</a>).
 
 Being an irrational number, π cannot be expressed exactly as a common fraction, although fractions such as 22/7 and other rational numbers are commonly used to approximate π. Consequently its decimal representation never ends and never settles into a permanent repeating pattern. The digits appear to be randomly distributed; however, to date, no proof of this has been discovered.
 
