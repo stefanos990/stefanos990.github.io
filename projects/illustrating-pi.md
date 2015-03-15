@@ -86,7 +86,7 @@ So what's the concept here? I thought, what if I could match each of pi's digits
 <div class="message">
   The Code Implementation
 </div>
-Since I kinda like Python, I used turtle library with Python to read pi's first 10,000 digits from a <a href="../projects/pi10k.txt">text</a> file, put them in a list and then after the matching method let the turtle make some drawing!
+Since I kinda like Python, I used Python's turtle library - a drawing library - to read pi's first 10,000 digits from a <a href="../projects/pi10k.txt">text</a> file, put them in a list and then after the matching method let the turtle make some drawing!
 
 <div><script src="https://gist.github.com/stefanos990/644d6c0e0d9e3f025226.js"></script></div>
 <br>
