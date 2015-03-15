@@ -104,8 +104,8 @@ Voila! Here's how the first 10,000 pi's digits are illustrated.
   </tr>
 
   <tr>
-    <td align="center"><img src="10k.png" alt="10k Digits"></td>
-    <td align="center"><img src="10k_color.png" alt="10k Digits with color"></td>		
+    <td align="center"><a href="../projects/10k.png"><img src="10k.png"></a></td>
+    <td align="center"><a href="../projects/10k_color.png"><img src="10k_color.png"></a></td>	
   </tr>
   </table>
   <br>
