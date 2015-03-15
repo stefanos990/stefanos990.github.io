@@ -89,7 +89,7 @@ You can read more about it on the <a href="http://www.thebrainstorm.gr/index.php
 <br>
 
 <div class="message">
-  <a href="../projects/illustrating_pi">Illustrating Pi</a> 
+  <a href="../projects/illustrating-pi">Illustrating Pi</a> 
 </div>
 
 <script>
