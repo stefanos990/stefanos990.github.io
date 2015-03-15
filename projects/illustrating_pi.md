@@ -88,7 +88,7 @@ Since I kinda like Python, I used turtle library with Python to read pi's first 
 
 <div><script src="http://pastebin.com/embed_js.php?i=Uy2JCPGE"></script></div>
 
-What if I put some color matching beside direction matching? Hmmm. Things are getting interest and the graphic illustration result should now provide us with more detail about the "randomness" of digits in pi.
+What if I put some color matching beside direction matching? Hmmm. Things are getting more interesting and the graphic illustration result should now provide us with more information about the "randomness" of digits in pi. The colors I've chosen to represent each digit are: <font color="purple">1</font>, <font color="blue">2</font>, <font color="cyan">3</font>, <font color="green">4</font>, <font color="yellow">5</font>, <font color="orange">6</font>, <font color="red">7</font>, <font color="brown">8</font>, <font color="black">9</font>
 
 <div><script src="http://pastebin.com/embed_js.php?i=8n9L6CZm"></script></div>
 <br>
