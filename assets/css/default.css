@@ -190,7 +190,7 @@ img.site-icon-page:hover {
 }
 
 a.site-title:hover, .copyright a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 table {
