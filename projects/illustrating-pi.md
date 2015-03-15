@@ -2,15 +2,6 @@
 layout: project
 title: Illustrating Pi
 ---
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=214775365252516&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 <div class="message">
   What is "Pi"?
 </div>
@@ -122,7 +113,7 @@ Voila! Here's how the first 10,000 pi's digits are illustrated.
   <br>
 
 <div>
-<div class="fb-share-button" data-href="http://stefanos990.com/projects/illustrating-pi" data-layout="button_count"></div>
+
 <iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/illustrating-pi/&amp;layout=button_count&amp;appId=460671367340473&amp;text=Illustrating Pi" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
 
 <iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/projects/illustrating-pi/&amp;text=Illustrating Pi"></iframe>
