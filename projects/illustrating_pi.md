@@ -5,7 +5,7 @@ title: Illustrating Pi
 <div class="message">
   What is "Pi"?
 </div>
-The number <strong>π</strong> is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi" (/paɪ/).
+The number <strong><abbr title="3.14159..">π</abbr></strong> is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi" (/paɪ/).
 
 Being an irrational number, π cannot be expressed exactly as a common fraction, although fractions such as 22/7 and other rational numbers are commonly used to approximate π. Consequently its decimal representation never ends and never settles into a permanent repeating pattern. The digits appear to be randomly distributed; however, to date, no proof of this has been discovered.
 
@@ -104,8 +104,8 @@ Voila! That's how the first 10k pi's digits are illustrated.
   </tr>
 
   <tr>
-    <td align="center"><img src="pi_10k.png" alt="pi_10k" style="width:75%"></td>
-    <td align="center"><img src="pi_10k_color.png" alt="pi_10k_color" style="width:75%"></td>		
+    <td align="center"><img src="pi_10k.png" alt="pi_10k"></td>
+    <td align="center"><img src="pi_10k_color.png" alt="pi_10k_color"></td>		
   </tr>
   </table>
   <br>
