@@ -113,8 +113,9 @@ for line in fd:
        pi_digits.append(d)
        
 for member in pi_digits:
-    move(member,5);
+    move(member,5)
 </code>
+
 <div>
 <iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/blog/first/&amp;layout=button_count&amp;appId=460671367340473" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
 
