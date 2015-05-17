@@ -47,8 +47,8 @@ menu:
   - title:  projects
     url:  /projects
 
-  - title:  dashboard
-    url:  /dashboard
+  - title:  blog
+    url:  http://stefanos990.tumblr.com/
 
   - title: CV
     url: /cv
