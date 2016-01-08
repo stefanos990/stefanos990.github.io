@@ -115,13 +115,13 @@ img.site-icon {
 	height: 150px;
 	border-radius: 50%;
 	transition-duration: .25s;
-	opacity: .75;
+	opacity: 1;
 }
 
 img.site-icon:hover {
 	margin-top: -80px;
-	width: 165px;
-	height: 165px;
+	width: 160px;
+	height: 160px;
 	opacity: 1;
 }
 
