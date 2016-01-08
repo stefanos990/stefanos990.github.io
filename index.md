@@ -11,7 +11,7 @@ I am <strong>Stefanos Michael</strong> and I was born in a small town in Cyprus,
 
 I know a bunch of programming languages and I use designing tools like a boss.
 
-Former Microsoft Student Partner, Tech Enthusiast, IoT
+<i>Former Microsoft Student Partner, Tech Enthusiast, IoT</i>
 
 That's all folks, for now!
 
