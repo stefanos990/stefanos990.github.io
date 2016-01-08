@@ -11,9 +11,13 @@ I am <strong>Stefanos Michael</strong> and I was born in a small town in Cyprus,
 
 I know a bunch of programming languages and I use designing tools like a boss.
 
-You can always <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.37e112509e16b7fe5e4cf93632594a08.en.html#_=1420818266168&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=stefanos990&amp;show_count=false&amp;show_screen_name=false&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 60px; height: 20px; vertical-align: middle;"></iframe> me on Twitter.
+Former Microsoft Student Partner, Tech Enthusiast, IoT
 
 That's all folks, for now!
+
+You can always <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.37e112509e16b7fe5e4cf93632594a08.en.html#_=1420818266168&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=stefanos990&amp;show_count=false&amp;show_screen_name=false&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 60px; height: 20px; vertical-align: middle;"></iframe> me on Twitter.
+
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
