@@ -115,7 +115,7 @@ img.site-icon {
 	height: 150px;
 	border-radius: 50%;
 	transition-duration: .25s;
-	opacity: .9;
+	opacity: .75;
 }
 
 img.site-icon:hover {
