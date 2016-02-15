@@ -9,7 +9,7 @@ The number <strong>π</strong> is a mathematical constant, the ratio of a circle
 
 Being an irrational number, π cannot be expressed exactly as a common fraction, although fractions such as 22/7 and other rational numbers are commonly used to approximate π. Consequently its decimal representation never ends and never settles into a permanent repeating pattern. The digits appear to be randomly distributed; however, to date, no proof of this has been discovered.
 
-More on Pi: <a href="http://en.wikipedia.org/wiki/Pi" target="_blank">Wikipedia</a>
+More on <a href="http://en.wikipedia.org/wiki/Pi" target="_blank">Pi</a>
 
 <br>
 

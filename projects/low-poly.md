@@ -7,7 +7,7 @@ title: Low-Poly Imaging
 </div>
 Low-Poly Imaging, basically is a polygon mesh in 3D computer graphics that has a relatively small number of polygons. Low-Poly meshes occur in real-time applications (e.g. games) and contrast with high poly meshes in animated movies and special effects of the same era. The term low poly is used in both a technical and a descriptive sense; the number of polygons in a mesh is an important factor to optimize for performance but can give an undesirable appearance to the resulting graphics.
 
-More on Low-Poly: <a href="https://en.wikipedia.org/wiki/Low_poly" target="_blank">Wikipedia</a>
+More on <a href="https://en.wikipedia.org/wiki/Low_poly" target="_blank">Low-Poly</a>
 
 <br>
 
@@ -29,7 +29,7 @@ You can watch this awesome and super simple tutorial on YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MSAGUhzA-90" frameborder="0" allowfullscreen></iframe>
 
-More on Gaussian Blur Filter: <a href="https://en.wikipedia.org/wiki/Gaussian_blur" target="_blank">Wikipedia</a>
+More on <a href="https://en.wikipedia.org/wiki/Gaussian_blur" target="_blank">Gaussian Blur Filter</a>
 
 <br>
 
