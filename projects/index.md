@@ -93,6 +93,8 @@ A small and simple project in Python that illustrates the digits of pi.
   <a href="../projects/low-poly">Low-Poly Imaging</a> 
 </div>
 
+<br>
+
 My first attempt on Low-Poly Imaging.
 
 <script>
