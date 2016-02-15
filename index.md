@@ -15,7 +15,8 @@ I know a bunch of programming languages and I use designing tools like a boss.
 
 That's all folks, for now!
 
-You can always <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.37e112509e16b7fe5e4cf93632594a08.en.html#_=1420818266168&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=stefanos990&amp;show_count=false&amp;show_screen_name=false&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 60px; height: 20px; vertical-align: middle;"></iframe> me on Twitter.
+You can always <a href="https://twitter.com/stefanos990" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @stefanos990</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> me on Twitter.
 
 
 
@@ -29,3 +30,5 @@ You can always <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allo
   ga('send', 'pageview');
 
 </script>
+
+<!--<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.37e112509e16b7fe5e4cf93632594a08.en.html#_=1420818266168&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=stefanos990&amp;show_count=false&amp;show_screen_name=false&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 60px; height: 20px; vertical-align: middle;"></iframe>-->
