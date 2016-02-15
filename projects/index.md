@@ -88,6 +88,13 @@ title: Projects
 </div>
 
 A small and simple project in Python that illustrates the digits of pi.
+
+<div class="message">
+  <a href="../projects/low-poly">Low-Poly Imaging</a> 
+</div>
+
+My first attempt on Low-Poly Imaging.
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -18,13 +18,20 @@ The result of low-poly imaging, as said before, usually has an undiserable appea
 
 I first encountered low-poly images from a professional art director & illustrator, <a href="http://justinmaller.com/" target="_blank">Justin Maller</a> and I was so amazed by the result, that I decided to give it a try!
 
+<br>
+
 <div class="message">
   How is it done?
 </div>
 The basic idea of low-poly imaging, is to split a desired photo into triangles (or any other polygon you like), and apply Average (Gausian) Blur Filter on each triangle until you transform the photo into blurry polygons that produce this stunning result!
 
+You can watch this awesome and super simple tutorial on YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MSAGUhzA-90" frameborder="0" allowfullscreen></iframe>
+
 More on Gaussian Blur Filter: <a href="https://en.wikipedia.org/wiki/Gaussian_blur" target="_blank">Wikipedia</a>
 
+<br>
 
 <div class="message">
   My first attempt
@@ -48,9 +55,9 @@ Even I was surprised by the simplicity of this kind of art. It took me about 3 h
 
 <div>
 
-<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/low-poly&amp;layout=button_count&amp;appId=460671367340473&amp;text=Illustrating Pi" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/low-poly&amp;layout=button_count&amp;appId=460671367340473&amp;text=Low-Poly Imaging" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
 
-<iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/projects/low-poly&amp;text=Illustrating Pi"></iframe>
+<iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/projects/low-poly&amp;text=Low-Poly Imaging"></iframe>
 </div>
 
 <script>
