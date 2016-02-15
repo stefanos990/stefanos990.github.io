@@ -15,7 +15,7 @@ I know a bunch of programming languages and I use designing tools like a boss.
 
 That's all folks, for now!
 
-You can always <a href="https://twitter.com/stefanos990" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @stefanos990</a>
+You can always <a href="https://twitter.com/stefanos990" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @stefanos990</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> me on Twitter.
 
 
