@@ -114,7 +114,7 @@ Voila! Here's how the first 10,000 pi's digits are illustrated.
 
 <div>
 
-<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/illustrating-pi&amp;layout=button_count&amp;appId=460671367340473&amp;text=Illustrating Pi" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/illustrating-pi&amp;layout=button_count&amp;appId=460671367340473&amp;text=Illustrating Pi" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px;" allowTransparency="true"></iframe>
 
 <iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/projects/illustrating-pi&amp;text=Illustrating Pi"></iframe>
 </div>
