@@ -55,7 +55,7 @@ Even I was surprised by the simplicity of this kind of art. It took me about 3 h
 
 <div>
 
-<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/low-poly&amp;layout=button_count&amp;appId=460671367340473&amp;text=Low-Poly Imaging" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/projects/low-poly&amp;layout=button_count&amp;appId=460671367340473&amp;text=Low-Poly Imaging" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px;" allowTransparency="true"></iframe>
 
 <iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/projects/low-poly&amp;text=Low-Poly Imaging"></iframe>
 </div>
