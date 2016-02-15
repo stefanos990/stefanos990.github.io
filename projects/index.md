@@ -89,11 +89,12 @@ title: Projects
 
 A small and simple project in Python that illustrates the digits of pi.
 
+
+<br>
+
 <div class="message">
   <a href="../projects/low-poly">Low-Poly Imaging</a> 
 </div>
-
-<br>
 
 My first attempt on Low-Poly Imaging.
 
