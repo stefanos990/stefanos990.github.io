@@ -4,6 +4,22 @@ title: Projects
 ---
 
 <div class="message">
+  <a href="../projects/low-poly">Low-Poly Imaging</a> - December 2015
+</div>
+
+My first attempt on Low-Poly Imaging.
+
+<br>
+
+<div class="message">
+  <a href="../projects/illustrating-pi">Illustrating Pi</a> - March 2015
+</div>
+
+A small and simple project in Python that illustrates the digits of pi.
+
+<br>
+
+<div class="message">
   Take a look at some projects I've done for <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a> so far.  
 </div>
 
@@ -83,20 +99,7 @@ title: Projects
 <br>
 
 
-<div class="message">
-  <a href="../projects/illustrating-pi">Illustrating Pi</a> 
-</div>
 
-A small and simple project in Python that illustrates the digits of pi.
-
-
-<br>
-
-<div class="message">
-  <a href="../projects/low-poly">Low-Poly Imaging</a> 
-</div>
-
-My first attempt on Low-Poly Imaging.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
