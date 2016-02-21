@@ -15,7 +15,7 @@ My first attempt on Low-Poly Imaging <a href="../projects/low-poly">→</a>
   <a href="../projects/illustrating-pi">Illustrating Pi</a> - March 2015
 </div>
 
-A small and simple project in Python that illustrates the digits of pi.
+A small and simple project in Python that illustrates the digits of pi <a href="../projects/illustrating-pi">→</a>
 
 <br>
 
