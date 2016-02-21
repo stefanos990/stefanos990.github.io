@@ -7,7 +7,7 @@ title: Projects
   <a href="../projects/low-poly">Low-Poly Imaging</a> - December 2015
 </div>
 
-My first attempt on Low-Poly Imaging.
+My first attempt on Low-Poly Imaging <a href="../projects/low-poly">→</a>
 
 <br>
 
