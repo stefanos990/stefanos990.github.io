@@ -61,7 +61,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 
 
 <div class="message">
-  You can download the pdf version <a href="../cv.pdf" target="_blank" title="Last Updated on 01/01/2015">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
+  You can download the pdf version <a href="../cv.pdf" target="_blank" title="Last Updated on 15/03/2016">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
 </div>
 
 <script>
