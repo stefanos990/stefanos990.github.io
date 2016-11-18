@@ -96,6 +96,7 @@ A small and simple project in Python that illustrates the digits of pi <a href="
     <td align="center"><a href="http://apps.microsoft.com/windows/en-us/app/zorba/09af9525-6c99-4901-bd57-6b44a69b3dd6" target="_blank">Windows 8.x</a></td>
   </tr>     
 </table>
+*Unpublished from the Store since November 2016.
 <br>
 
 
