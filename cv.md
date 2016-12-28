@@ -9,7 +9,7 @@ title: CV
 
 <strong>Experience</strong>
 
-<ul class="task-list">
+<ul class="task-list" style="text-align:justify;">
 <li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - present)<br>
 Brainstorm is a company focused on making quality mobile apps and games. Currently publishing for the Windows and Windows Phone platform, Brainstorm has a variety of hit-apps like the puzzle game Illuminate and the minimalistic text editor Write.</li>
 <li><strong>Microsoft Student Partner</strong> - (September 2012 - September 2015)<br>
@@ -18,7 +18,7 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 
 <strong>Education</strong>
 
-<ul class="task-list">
+<ul class="task-list" style="text-align:justify;">
 <li><strong>University of Patras</strong> - <em>Electrical & Computer Engineering</em><br>
 <strong>Degree</strong> - <em>Master of Engineering</em><br>
 <strong>Diploma Thesis</strong> - <em>"Collection of information & sensor control in a residential environment"</em><br>
@@ -29,7 +29,7 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 
 <strong>Organizations</strong>
 
-<ul class="task-list">
+<ul class="task-list" style="text-align:justify;">
 <li><strong>ETEK (Cyprus Scientific and Technical Chamber)</strong> - <em>Member</em> (December 2016 - present)<br>
 The Cyprus Scientific and Technical Chamber (ΕΤΕΚ) is the statutory Technical Advisor to the State and is the umbrella organisation for all Cypriot Engineers. It was established by Law 224/1990 and is a Public Law Body with an elected Governing Body. It has an office and a Service capable of promoting its objects.<br>
 <strong>Member ID:</strong> A179173</li>
@@ -41,14 +41,14 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 
 <strong>Languages</strong>
 
-<ul class="task-list">
+<ul class="task-list" style="text-align:justify;">
 <li><strong>Greek</strong> - <em>Native</em></li>
 <li><strong>English</strong> - <em>Level C2</em></li>
 </ul>
 
 <strong>Programming Skills</strong>
 
-<ul class="task-list">
+<ul class="task-list" style="text-align:justify;">
 <li><strong>C#</strong></li>
 <li><strong>C/C++</strong></li>
 <li><strong>Python</strong></li>
@@ -63,7 +63,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 </ul>
 
 
-<div class="message">
+<div class="message" style="text-align:justify;">
   You can download the pdf version <a href="../cv.pdf" target="_blank" title="Last Updated on 03/10/2016">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
 </div>
 
