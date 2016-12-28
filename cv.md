@@ -53,6 +53,9 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 <strong>Organizations</strong>
 
 <ul class="task-list">
+<li><strong>ETEK (Cyprus Scientific and Technical Chamber)</strong> - <em>Member</em> (December 2016 - present)<br>
+The Cyprus Scientific and Technical Chamber (ΕΤΕΚ) is the statutory Technical Advisor to the State and is the umbrella organisation for all Cypriot Engineers. It was established by Law 224/1990 and is a Public Law Body with an elected Governing Body. It has an office and a Service capable of promoting its objects.<br>
+Member ID: A179173</li>
 <li><strong>IEEE</strong> - <em>Student Member</em> (January 2011 - September 2015)<br>
 IEEE is the world's largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE's highly cited publications, conferences, technology standards, and professional and educational activities.</li>
 <li><strong>StudentGuru Patras</strong> - <em>Member</em> (September 2012 - September 2015)<br>
