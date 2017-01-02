@@ -23,6 +23,7 @@ My Twitter Bot (called "Stefa Bot"), would post a new random generated tweet fro
   How is it done?
 </div>
 The basic idea of this Twitter Bot is to grab older tweets from a specific Twitter account, build a <a href="https://en.wikipedia.org/wiki/Markov_model" target="_blank">Markov Model</a> and generate a random statement. The implementation of this bot was made using <b>twitter_ebooks</b>, which is a framework for building interactive twitterbots which respond to mentions and can be found on <a href="https://github.com/mispy/twitter_ebooks" target="_blank">https://github.com/mispy/twitter_ebooks</a>.
+
 <br>
 
 <div class="message">

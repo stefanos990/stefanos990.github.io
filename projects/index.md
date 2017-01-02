@@ -2,6 +2,13 @@
 layout: page
 title: Projects
 ---
+<div class="message">
+  <a href="../projects/twitter-bot">Twitter Bot</a> - September 2016
+</div>
+
+A Twitter Bot called "Stefa Bot", tweeting random tweets just for fun! <a href="../projects/twitter-bot">→</a>
+
+<br>
 
 <div class="message">
   <a href="../projects/low-poly">Low-Poly Imaging</a> - December 2015
