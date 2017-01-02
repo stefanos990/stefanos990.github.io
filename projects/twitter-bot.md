@@ -6,9 +6,9 @@ title: Twitter Bot
 <div class="message">
   What is a "Twitter Bot"?
 </div>
-<p style="text-align:justify;">A Twitterbot is a bot program used to produce automated posts on the Twitter microblogging service, or to automatically follow Twitter users. Twitterbots come in various forms. For example, many serve as spam, enticing clicks on promotional links. Others post @replies or automatically "retweet" in response to tweets that include a certain word or phrase. These automatic tweets are often seen as fun or silly. Some Twitter users even program Twitterbots to assist themselves with scheduling or reminders.
+<p style="text-align:justify;">A Twitterbot is a bot program used to produce automated posts on the Twitter microblogging service, or to automatically follow Twitter users. Twitterbots come in various forms. For example, many serve as spam, enticing clicks on promotional links. Others post @replies or automatically "retweet" in response to tweets that include a certain word or phrase. These automatic tweets are often seen as fun or silly. Some Twitter users even program Twitterbots to assist themselves with scheduling or reminders.</p>
 
-More on <a href="https://en.wikipedia.org/wiki/Twitterbot" target="_blank">Twitter Bot</a></p>
+<p style="text-align:justify;">More on <a href="https://en.wikipedia.org/wiki/Twitterbot" target="_blank">Twitter Bot</a></p>
 
 <br>
 
@@ -22,7 +22,7 @@ More on <a href="https://en.wikipedia.org/wiki/Twitterbot" target="_blank">Twitt
 <div class="message">
   How is it done?
 </div>
-<p style="text-align:justify;">The basic idea of this Twitter Bot is to grab older tweets from a specific Twitter account, build a <a href="https://en.wikipedia.org/wiki/Markov_model" target="_blank">Markov Model</a> and generate a random statement. The implementation of this bot was made using <b>twitter_ebooks</b>, which is a framework for building interactive twitterbots which respond to mentions and can be found on <a href="https://github.com/mispy/twitter_ebooks" target="_blank">https://github.com/mispy/twitter_ebooks</a>.</p>
+<p style="text-align:justify;">The basic idea of this Twitter Bot is to grab older tweets from a specific Twitter account, build a <a href="https://en.wikipedia.org/wiki/Markov_model" target="_blank">Markov Model</a> and generate a random statement. The implementation of this bot was made using <b>twitter_ebooks</b>, which is a framework for building interactive twitterbots which respond to mentions and can be found on <a href="https://github.com/mispy/twitter_ebooks" target="_blank">https://github.com/mispy/twitter_ebooks</a></p>
 
 <br>
 
