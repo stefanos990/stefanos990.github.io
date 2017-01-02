@@ -7,7 +7,7 @@ title: Gaming Podcast
   Listen Live!
 </div>
 
-<iframe src="https://mixlr.com/users/5850910/embed" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe><small><a href="http://mixlr.com/stefanos990" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;">stefanos990 is on Mixlr</a></small>
+<iframe src="https://mixlr.com/users/5850910/embed" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe><small><a href="http://mixlr.com/stefanos990" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;"></a></small>
 
 
 
