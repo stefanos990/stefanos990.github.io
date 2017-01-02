@@ -16,6 +16,7 @@ More on <a href="https://en.wikipedia.org/wiki/Twitterbot" target="_blank">Twitt
   What I wanted my Twitter Bot to do?
 </div>
 My Twitter Bot (called "Stefa Bot"), would post a new random generated tweet from my tweets on my official Twitter account every 24h. Also, at the moment Stefa Bot can reply to tweets and mentions, but not DMs yet.
+
 <br>
 
 <div class="message">
@@ -23,6 +24,10 @@ My Twitter Bot (called "Stefa Bot"), would post a new random generated tweet fro
 </div>
 The basic idea of this Twitter Bot is to grab older tweets from a specific Twitter account, build a <a href="https://en.wikipedia.org/wiki/Markov_model" target="_blank">Markov Model</a> and generate a random statement. The implementation of this bot was made using <b>twitter_ebooks</b>, which is a framework for building interactive twitterbots which respond to mentions and can be found on <a href="https://github.com/mispy/twitter_ebooks" target="_blank">https://github.com/mispy/twitter_ebooks</a>.
 <br>
+
+<div class="message">
+  Stefa Bot Timeline
+</div>
 
 <a class="twitter-timeline" href="https://twitter.com/stefabot">Tweets by stefabot</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
