@@ -8,13 +8,13 @@ title: About me, the life, the universe and everything more.
 </div>
 
 <div style="text-align:justify;">
-I am <strong>Stefanos Michael</strong> and I was born in a small town in Cyprus, called Paralimni. I studied Electrical & Computer Engineering at University of Patras, Greece and I am co-founder of <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a>. 
+<p>I am <strong>Stefanos Michael</strong> and I was born in a small town in Cyprus, called Paralimni. I studied Electrical & Computer Engineering at University of Patras, Greece and I am co-founder of <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a>.</p> 
 
-I know a bunch of programming languages and I use designing tools like a boss.
+<p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
-<strong><i>Former Microsoft Student Partner, Tech Enthusiast, IoT</i></strong>
+<p><strong><i>Former Microsoft Student Partner, Tech Enthusiast, IoT</i></strong></p>
 
-That's all folks, for now!
+<p>That's all folks, for now!</p>
 </div>
 
 You can always <a href="https://twitter.com/stefanos990" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @stefanos990</a>
