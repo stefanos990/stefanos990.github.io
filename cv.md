@@ -4,10 +4,8 @@ title: CV
 ---
 
 <div class="message">
-  Curriculum Vitae
+  Experience
 </div>
-
-<strong>Experience</strong>
 
 <ul class="task-list" style="text-align:justify;">
 <li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - present)<br>
@@ -16,7 +14,9 @@ Brainstorm is a company focused on making quality mobile apps and games. Current
 The main responsibilities of being a Microsoft Student Partner are to organize events, seminars and trainings at the University, to promote the company's tools and technologies and to be the contact point between professors, students and the company.</li>
 </ul>
 
-<strong>Education</strong>
+<div class="message">
+  Education
+</div>
 
 <ul class="task-list" style="text-align:justify;">
 <li><strong>University of Patras</strong> - <em>Diploma in Electrical & Computer Engineering</em><br>
@@ -27,7 +27,9 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 <strong>GPA</strong> - <em>19.75 / 20.00</em></li>
 </ul>
 
-<strong>Organizations</strong>
+<div class="message">
+  Organizations
+</div>
 
 <ul class="task-list" style="text-align:justify;">
 <li><strong>ETEK (Cyprus Scientific and Technical Chamber)</strong> - <em>Member</em> (December 2016 - present)<br>
@@ -39,14 +41,18 @@ IEEE is the world's largest professional association dedicated to advancing tech
 StudentGuru is one of the biggest student forums in Greece with more than 14.000 members, focusing on technology. Its offline events are organised by local communities. StudentGuru Patras is the first academic community in University of Patras majoring in Microsoft .NET related technologies. It was founded in October 2009 and its main vision is to bring students closer to popular technologies.</li>
 </ul>
 
-<strong>Languages</strong>
+<div class="message">
+  Languages
+</div>
 
 <ul class="task-list" style="text-align:justify;">
 <li><strong>Greek</strong> - <em>Native</em></li>
 <li><strong>English</strong> - <em>Level C2</em></li>
 </ul>
 
-<strong>Programming Skills</strong>
+<div class="message">
+  Programming Skills
+</div>
 
 <ul class="task-list" style="text-align:justify;">
 <li><strong>C#</strong></li>
