@@ -19,8 +19,8 @@ The main responsibilities of being a Microsoft Student Partner are to organize e
 <strong>Education</strong>
 
 <ul class="task-list" style="text-align:justify;">
-<li><strong>University of Patras</strong> - <em>Electrical & Computer Engineering</em><br>
-<strong>Degree</strong> - <em>Master of Engineering</em><br>
+<li><strong>University of Patras</strong> - <em>Diploma in Electrical & Computer Engineering</em><br>
+<strong>Master’s equivalent studies (300 ECTS)</strong><br>
 <strong>Diploma Thesis</strong> - <em>"Collection of information & sensor control in a residential environment"</em><br>
 <strong>GPA</strong> - <em>7.64 / 10.00</em></li>
 <li><strong>Paralimni Lyceum</strong> - <em>High School</em><br>
