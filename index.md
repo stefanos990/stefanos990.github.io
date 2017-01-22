@@ -18,7 +18,7 @@ title: About me, the life, the universe and everything more.
 </div>
 
 <div class="message" >
-You can always <span style="vertical-align:middle;"><a href="https://twitter.com/stefanos990" class="twitter-follow-button" style="vertical-align: middle;" data-show-screen-name="false" data-show-count="false">Follow @stefanos990</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></span> me on Twitter.
+You can always <span style="vertical-align:middle;"><a href="https://twitter.com/stefanos990" class="twitter-follow-button" style="vertical-align: middle;" size="large" data-show-screen-name="false" data-show-count="false">Follow @stefanos990</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></span> me on Twitter.
 </div>
 
 
