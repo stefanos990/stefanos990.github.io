@@ -17,7 +17,7 @@ title: About me, the life, the universe and everything more.
 <p>That's all folks, for now!</p>
 </div>
 
-<div class="message">
+<div class="message" style="vertical-align:middle;"">
 You can always <a href="https://twitter.com/stefanos990" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @stefanos990</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> me on Twitter.
 </div>
 
