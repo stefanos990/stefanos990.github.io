@@ -29,7 +29,7 @@ title: Dashboard
   </tr> 
 
   <tr>
-    <td align="center">Battles played: 0<br>Wins: 0<br>Loses: 0</td>
+    <td align="center">Battles: 0<br>Wins: 0<br>Loses: 0</td>
     <td align="center" colspan="5">Pie Chart</td>
   </tr> 
 
