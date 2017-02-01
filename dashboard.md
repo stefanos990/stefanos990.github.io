@@ -19,6 +19,15 @@ title: Dashboard
     <td align="center"><a href="http://pokemondb.net/pokedex/araquanid" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/araquanid.png" alt="Araquanid" height="100px" width="100px"></a></td>
   </tr> 
 
+  <tr>
+    <td align="center">Lunala</td>
+    <td align="center">Solgaleo</td>		
+    <td align="center">Kommo-o</td>
+    <td align="center">Lycanroc</td>
+    <td align="center">Salazzle</td>
+    <td align="center">Araquanid</td>
+  </tr> 
+
 </table>
 </div>
 
