@@ -8,10 +8,8 @@ title: Dashboard
 <div class="message">
   Twitter Followers
 </div>
-
-<div>
-    <iframe width="425" height="350" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/twitter-chart/"></iframe>
-</div>
+ 
+ <iframe width="760" height="300" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/twitter-chart/"></iframe>
 
 <div class="message">
   Pokémon Moon Team
