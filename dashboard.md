@@ -28,6 +28,29 @@ title: Dashboard
     <td align="center"><a href="http://pokemondb.net/pokedex/araquanid" target="_blank">Araquanid</a></td>
   </tr> 
 
+  <tr>
+    <td align="center">Battles played: 0<br>Wins: 0<br>Loses: 0</td>
+    <td align="center"><div class="panel">
+  <div class="ctrl">
+    <span>_</span>
+    <span>&times;</span>
+  </div>
+  
+  <div class="chart">
+    <div class="percentage" data-percent="71">
+      <span>71</span><sup>%</sup>
+    </div>
+    <div class="label">New visits</div>
+  </div>
+  
+  <div class="chart">
+    <div class="percentage" data-percent="46">
+      <span>46</span><sup>%</sup>
+    </div>
+    <div class="label">Bounce rate</div>
+  </div></td>
+  </tr> 
+
 </table>
 </div>
 
@@ -41,3 +64,18 @@ title: Dashboard
   ga('send', 'pageview');
 
 </script>
+
+/**
+ * Built with the jQuery plugin that was born as a result of the great dribble shot
+ * http://rendro.github.io/easy-pie-chart/
+ **/
+$('.percentage').easyPieChart({
+  animate: 1000,
+  lineWidth: 4,
+  onStep: function(value) {
+    this.$el.find('span').text(Math.round(value));
+  },
+  onStop: function(value, to) {
+    this.$el.find('span').text(Math.round(to));
+  }
+});
