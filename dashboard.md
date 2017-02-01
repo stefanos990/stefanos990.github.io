@@ -11,12 +11,12 @@ title: Dashboard
 <table align="center">
 
   <tr>
-    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala" height="100px" width="100px"></td>
-    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo" height="100px" width="100px"></td>		
-    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o" height="100px" width="100px"></td>
-    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc" height="100px" width="100px"></td>
-    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle" height="100px" width="100px"></td>
-    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/araquanid.png" alt="Araquanid" height="100px" width="100px"></td>
+    <td align="center"><img src="../assets/images/pokemon/lunala.png" alt="Lunala" height="100px" width="100px"></td>
+    <td align="center"><img src="../assets/images/pokemon/solgaleo.png" alt="Solgaleo" height="100px" width="100px"></td>		
+    <td align="center"><img src="../assets/images/pokemon/kommo-o.png" alt="Kommo-o" height="100px" width="100px"></td>
+    <td align="center"><img src="../assets/images/pokemon/lycanroc-midnight.png" alt="Lycanroc" height="100px" width="100px"></td>
+    <td align="center"><img src="../assets/images/pokemon/salazzle.png" alt="Salazzle" height="100px" width="100px"></td>
+    <td align="center"><img src="../assets/images/pokemon/araquanid.png" alt="Araquanid" height="100px" width="100px"></td>
   </tr> 
 
   <tr>
