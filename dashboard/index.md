@@ -6,18 +6,6 @@ title: Dashboard
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
 <div class="message">
-  Facebook Friends
-</div>
- 
- <iframe width="760" height="300" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/fb-chart/"></iframe>
-
-<div class="message">
-  Twitter Followers
-</div>
- 
- <iframe width="760" height="300" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/twitter-chart/"></iframe>
-
-<div class="message">
   Pokémon Moon Team
 </div>
 
@@ -44,6 +32,15 @@ title: Dashboard
 
 </table>
 </div>
+
+<div class="message">
+  Facebook Friends
+</div>
+ <iframe width="760" height="300" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/fb-chart/"></iframe>
+<div class="message">
+  Twitter Followers
+</div>
+ <iframe width="760" height="300" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/twitter-chart/"></iframe>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
