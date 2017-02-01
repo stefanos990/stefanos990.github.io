@@ -4,28 +4,28 @@ title: Dashboard
 ---
 
 <div class="message">
-  Pokémon Team
+  Pokémon Moon Team
 </div>
 
 <div>
 <table align="center">
 
   <tr>
-    <td align="center"><a href="http://pokemondb.net/pokedex/lunala" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala" height="100px" width="100px"></a></td>
-    <td align="center"><a href="http://pokemondb.net/pokedex/solgaleo" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo" height="100px" width="100px"></a></td>		
-    <td align="center"><a href="http://pokemondb.net/pokedex/kommo-o" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o" height="100px" width="100px"></a></td>
-    <td align="center"><a href="http://pokemondb.net/pokedex/lycanroc" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc" height="100px" width="100px"></a></td>
-    <td align="center"><a href="http://pokemondb.net/pokedex/salazzle" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle" height="100px" width="100px"></a></td>
-    <td align="center"><a href="http://pokemondb.net/pokedex/araquanid" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/araquanid.png" alt="Araquanid" height="100px" width="100px"></a></td>
+    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala" height="100px" width="100px"></td>
+    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo" height="100px" width="100px"></td>		
+    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o" height="100px" width="100px"></td>
+    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc" height="100px" width="100px"></td>
+    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle" height="100px" width="100px"></td>
+    <td align="center"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/araquanid.png" alt="Araquanid" height="100px" width="100px"></td>
   </tr> 
 
   <tr>
-    <td align="center">Lunala</td>
-    <td align="center">Solgaleo</td>		
-    <td align="center">Kommo-o</td>
-    <td align="center">Lycanroc</td>
-    <td align="center">Salazzle</td>
-    <td align="center">Araquanid</td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/lunala" target="_blank">Lunala</a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/solgaleo" target="_blank">Solgaleo</a></td>		
+    <td align="center"><a href="http://pokemondb.net/pokedex/kommo-o" target="_blank">Kommo-o</a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/lycanroc" target="_blank">Lycanroc</a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/salazzle" target="_blank">Salazzle</a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/araquanid" target="_blank">Araquanid</a></td>
   </tr> 
 
 </table>
