@@ -2,7 +2,9 @@
 layout: page
 title: Dashboard
 ---
-
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="../assets/js/pie-chart.js"></script>
 <div class="message">
   Pokémon Moon Team
 </div>
@@ -46,6 +48,3 @@ title: Dashboard
   ga('send', 'pageview');
 
 </script>
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
-<script src="../assets/js/pie-chart.js"></script>
