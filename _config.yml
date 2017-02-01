@@ -57,6 +57,9 @@ menu:
   - title: CV
     url: /cv
 
+  - title: dboard
+    url: /dashboard
+
 
 copyright:
   author:	Stefanos Michael
