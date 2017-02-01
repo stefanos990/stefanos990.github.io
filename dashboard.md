@@ -30,25 +30,36 @@ title: Dashboard
 
   <tr>
     <td align="center">Battles played: 0<br>Wins: 0<br>Loses: 0</td>
-    <td align="center"><div class="panel">
-  <div class="ctrl">
-    <span>_</span>
-    <span>&times;</span>
-  </div>
-  
-  <div class="chart">
-    <div class="percentage" data-percent="71">
-      <span>71</span><sup>%</sup>
+    <td align="center"><main>
+  <h1>HTML Pie Chart</h1>
+  <p>Change the number values in the html.</p>
+  <section>
+    <div class="pieID pie">
+      
     </div>
-    <div class="label">New visits</div>
-  </div>
-  
-  <div class="chart">
-    <div class="percentage" data-percent="46">
-      <span>46</span><sup>%</sup>
-    </div>
-    <div class="label">Bounce rate</div>
-  </div></td>
+    <ul class="pieID legend">
+      <li>
+        <em>Humans</em>
+        <span>718</span>
+      </li>
+      <li>
+        <em>Dogs</em>
+        <span>531</span>
+      </li>
+      <li>
+        <em>Cats</em>
+        <span>868</span>
+      </li>
+      <li>
+        <em>Slugs</em>
+        <span>344</span>
+      </li>
+      <li>
+        <em>Aliens</em>
+        <span>1145</span>
+      </li>
+    </ul>
+  </section></td>
   </tr> 
 
 </table>
@@ -65,17 +76,58 @@ title: Dashboard
 
 </script>
 
-/**
- * Built with the jQuery plugin that was born as a result of the great dribble shot
- * http://rendro.github.io/easy-pie-chart/
- **/
-$('.percentage').easyPieChart({
-  animate: 1000,
-  lineWidth: 4,
-  onStep: function(value) {
-    this.$el.find('span').text(Math.round(value));
-  },
-  onStop: function(value, to) {
-    this.$el.find('span').text(Math.round(to));
+function sliceSize(dataNum, dataTotal) {
+  return (dataNum / dataTotal) * 360;
+}
+function addSlice(sliceSize, pieElement, offset, sliceID, color) {
+  $(pieElement).append("<div class='slice "+sliceID+"'><span></span></div>");
+  var offset = offset - 1;
+  var sizeRotation = -179 + sliceSize;
+  $("."+sliceID).css({
+    "transform": "rotate("+offset+"deg) translate3d(0,0,0)"
+  });
+  $("."+sliceID+" span").css({
+    "transform"       : "rotate("+sizeRotation+"deg) translate3d(0,0,0)",
+    "background-color": color
+  });
+}
+function iterateSlices(sliceSize, pieElement, offset, dataCount, sliceCount, color) {
+  var sliceID = "s"+dataCount+"-"+sliceCount;
+  var maxSize = 179;
+  if(sliceSize<=maxSize) {
+    addSlice(sliceSize, pieElement, offset, sliceID, color);
+  } else {
+    addSlice(maxSize, pieElement, offset, sliceID, color);
+    iterateSlices(sliceSize-maxSize, pieElement, offset+maxSize, dataCount, sliceCount+1, color);
   }
-});
+}
+function createPie(dataElement, pieElement) {
+  var listData = [];
+  $(dataElement+" span").each(function() {
+    listData.push(Number($(this).html()));
+  });
+  var listTotal = 0;
+  for(var i=0; i<listData.length; i++) {
+    listTotal += listData[i];
+  }
+  var offset = 0;
+  var color = [
+    "cornflowerblue", 
+    "olivedrab", 
+    "orange", 
+    "tomato", 
+    "crimson", 
+    "purple", 
+    "turquoise", 
+    "forestgreen", 
+    "navy", 
+    "gray"
+  ];
+  for(var i=0; i<listData.length; i++) {
+    var size = sliceSize(listData[i], listTotal);
+    iterateSlices(size, pieElement, offset, i, 0, color[i]);
+    $(dataElement+" li:nth-child("+(i+1)+")").css("border-color", color[i]);
+    offset += size;
+  }
+}
+createPie(".pieID.legend", ".pieID.pie");
