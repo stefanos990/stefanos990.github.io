@@ -4,18 +4,16 @@ title: Dashboard
 ---
 
 <div class="message">
-  Pokemon Team
+  Pokémon Team
 </div>
-<p style="text-align: justify;">
-	This is my current Pokemon Team in Pokemon Moon
-</p>
+
 <div>
-<a href="http://pokemondb.net/pokedex/lunala"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala"></a>
-<a href="http://pokemondb.net/pokedex/solgaleo"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo"></a>
-<a href="http://pokemondb.net/pokedex/kommo-o"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o"></a>
-<a href="http://pokemondb.net/pokedex/lycanroc"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc"></a>
-<a href="http://pokemondb.net/pokedex/salazzle"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle"></a>
-<a href="http://pokemondb.net/pokedex/carracosta"><img src="https://img.pokemondb.net/sprites/x-y/normal/carracosta.png" alt="Carracosta"></a>	
+<a href="http://pokemondb.net/pokedex/lunala"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala" height="120px" width="120px"></a>
+<a href="http://pokemondb.net/pokedex/solgaleo"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo" height="120px" width="120px"></a>
+<a href="http://pokemondb.net/pokedex/kommo-o"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o" height="120px" width="120px"></a>
+<a href="http://pokemondb.net/pokedex/lycanroc"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc" height="120px" width="120px"></a>
+<a href="http://pokemondb.net/pokedex/salazzle"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle" height="120px" width="120px"></a>
+<a href="http://pokemondb.net/pokedex/carracosta"><img src="https://img.pokemondb.net/sprites/x-y/normal/carracosta.png" alt="Carracosta" height="120px" width="120px"></a>	
 </div>
 
 <script>
