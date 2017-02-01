@@ -37,6 +37,10 @@ social:
   - icon:	flickr
     url:	https://www.flickr.com/people/stefanos990/
     desc:	Follow me on Flickr
+    
+  - icon: mail
+    url: mailto:stefanos990@outlook.com
+    desc: Contact me
 
 
     
