@@ -37,11 +37,11 @@ title: Dashboard
 <div class="message">
   Facebook Friends
 </div>
- <iframe width="760" height="300" frameborder="0" scrolling="no" src="/scripts/fb-chart/"></iframe>
+ <iframe width="760" height="300" frameborder="0" scrolling="no" src="/dashboard/scripts/fb-chart/"></iframe>
 <div class="message">
   Twitter Followers
 </div>
- <iframe width="760" height="300" frameborder="0" scrolling="no" src="/scripts/twitter-chart/"></iframe>
+ <iframe width="760" height="300" frameborder="0" scrolling="no" src="/dashboard/scripts/twitter-chart/"></iframe>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
