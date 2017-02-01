@@ -8,12 +8,18 @@ title: Dashboard
 </div>
 
 <div>
-<a href="http://pokemondb.net/pokedex/lunala" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala" height="100px" width="100px"></a>
-<a href="http://pokemondb.net/pokedex/solgaleo" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo" height="100px" width="100px"></a>
-<a href="http://pokemondb.net/pokedex/kommo-o" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o" height="100px" width="100px"></a>
-<a href="http://pokemondb.net/pokedex/lycanroc" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc" height="100px" width="100px"></a>
-<a href="http://pokemondb.net/pokedex/salazzle" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle" height="100px" width="100px"></a>
-<a href="http://pokemondb.net/pokedex/carracosta" target="_blank"><img src="https://img.pokemondb.net/sprites/x-y/normal/carracosta.png" alt="Carracosta" height="100px" width="100px"></a>	
+<table align="center">
+
+  <tr>
+    <td align="center"><a href="http://pokemondb.net/pokedex/lunala" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lunala.png" alt="Lunala" height="100px" width="100px"></a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/solgaleo" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/solgaleo.png" alt="Solgaleo" height="100px" width="100px"></a></td>		
+    <td align="center"><a href="http://pokemondb.net/pokedex/kommo-o" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/kommo-o.png" alt="Kommo-o" height="100px" width="100px"></a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/lycanroc" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/lycanroc-midnight.png" alt="Lycanroc" height="100px" width="100px"></a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/salazzle" target="_blank"><img src="https://img.pokemondb.net/sprites/sun-moon/dex/normal/salazzle.png" alt="Salazzle" height="100px" width="100px"></a></td>
+    <td align="center"><a href="http://pokemondb.net/pokedex/carracosta" target="_blank"><img src="https://img.pokemondb.net/sprites/x-y/normal/carracosta.png" alt="Carracosta" height="100px" width="100px"></a>	</td>
+  </tr> 
+
+</table>
 </div>
 
 <script>
