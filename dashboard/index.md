@@ -32,7 +32,7 @@ title: Dashboard
 
   <tr>
     <td align="left">Battles: 0<br>Wins: 0<br>Loses: 0</td>
-    <td align="center" colspan="5"><iframe width="425" height="350" frameborder="0" scrolling="false" src="http://stefanos990.com/scripts/pie-chart/"></iframe></td>
+    <td align="center" colspan="5"><iframe width="425" height="350" frameborder="0" scrolling="no" src="http://stefanos990.com/scripts/pie-chart/"></iframe></td>
   </tr> 
 
 </table>
