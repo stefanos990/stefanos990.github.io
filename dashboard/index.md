@@ -32,6 +32,7 @@ title: Dashboard
 
 </table>
 </div>
+<br>
 
 <div class="message">
   Facebook Friends
