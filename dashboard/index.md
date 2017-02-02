@@ -42,6 +42,14 @@ title: Dashboard
   Twitter Followers
 </div>
  <iframe width="760" height="300" frameborder="0" scrolling="no" src="/dashboard/scripts/twitter-chart/"></iframe>
+<br>
+
+<div>
+
+<iframe src="//www.facebook.com/plugins/share_button.php?href=http://stefanos990.com/dashboard&amp;layout=button_count&amp;appId=460671367340473&amp;text=Dashboard" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px;" allowTransparency="true"></iframe>
+
+<iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?via=stefanos990&amp;count=horizontal&amp;url=http://stefanos990.com/dashboard&amp;text=Dashboard"></iframe>
+</div>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
