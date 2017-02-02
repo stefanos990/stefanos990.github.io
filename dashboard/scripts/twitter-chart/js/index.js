@@ -23,7 +23,8 @@ var data = [
       axes: false,
       grid: false,
       smooth: false,
-      pointSize: 0
+      pointSize: 0,
+      parseTime: false
   };
 config.element = 'area-chart';
 Morris.Area(config);
