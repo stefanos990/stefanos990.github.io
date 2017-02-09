@@ -14,7 +14,7 @@ title: About me, the life, the universe and everything more.
 
 <p><strong><i>Former Microsoft Student Partner, Tech Enthusiast, IoT</i></strong></p>
 
-<p>That's all folks, for now!</p>
+<p>For more details, view my <a href="/cv">CV</a>. That's all folks, for now!</p>
 </div>
 
 <div class="message" >
