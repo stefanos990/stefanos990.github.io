@@ -6,7 +6,6 @@ title: Projects
   <a href="../projects/twitter-bot">Twitter Bot</a> - September 2016
 </div>
 
-<img src="../projects/twitter.png" alt="Mountain View" style="width:150px;height:150px;">
 A Twitter Bot called "Stefa Bot", tweeting random tweets just for fun! <a href="../projects/twitter-bot">→</a>
 
 <br>
