@@ -12,7 +12,7 @@ title: About me, the life, the universe and everything more.
 
 <p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
-<p><strong><i>Former Microsoft Student Partner, Tech Enthusiast, IoT</i></strong></p>
+<p><strong><i>Former Microsoft Student Partner, Tech Enthusiast, IoT, Fish Keeper</i></strong></p>
 
 <p>For more details, view my <a href="/cv">CV</a>. That's all folks, for now!</p>
 </div>
