@@ -54,11 +54,11 @@ menu:
   - title:  blog
     url:  http://blog.stefanos990.com
 
-  - title: CV
-    url: /cv
-
   - title: gallery
     url: /gallery
+
+  - title: CV
+    url: /cv
 
 
 copyright:
