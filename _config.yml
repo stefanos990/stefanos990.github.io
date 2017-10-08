@@ -57,6 +57,9 @@ menu:
   - title: CV
     url: /cv
 
+  - title: gallery
+    url: /gallery
+
 
 copyright:
   author:	Stefanos Michael
