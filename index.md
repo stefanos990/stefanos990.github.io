@@ -21,7 +21,6 @@ title: About me, the life, the universe and everything more
 <a href="https://twitter.com/stefanos990" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @stefanos990</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://youtubevideoembed.com/">How to embed a you Tube video</a></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/stefanos990/&sort=0&by=user&theme=slider&scale=fill&limit=10&skin=default&autoplay=true'></script>
 
 {% include analytics.html %}
 

@@ -6,6 +6,12 @@ title: Dashboard
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
 <div class="message">
+  Photos
+</div>
+
+<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://youtubevideoembed.com/">How to embed a you Tube video</a></div><small style="display: block; text-align: center; margin: 0 auto;"></small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/stefanos990/&sort=0&by=user&theme=slider&scale=fill&limit=10&skin=default&autoplay=true'></script>
+<div class="message">
+
   Pokémon Moon Team
 </div>
 
