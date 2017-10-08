@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me, the life, the universe and everything more.
+title: About me, the life, the universe and everything more
 ---
 
 <div class="message">
