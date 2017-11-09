@@ -8,6 +8,9 @@ title: CV
 </div>
 
 <ul class="task-list" style="text-align:justify;">
+
+<li><strong>FreeeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - present)<br></li>
+<li><strong>iWP & Brand Building</strong> - <em>Web Developer</em> (July 2017 - present)<br></li>
 <li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - present)<br>
 Brainstorm is a company focused on making quality mobile apps and games. Currently publishing for the Windows and Windows Phone platform, Brainstorm has a variety of hit-apps like the puzzle game Illuminate and the minimalistic text editor Write.</li>
 <li><strong>Microsoft Student Partner</strong> - (September 2012 - September 2015)<br>
@@ -70,7 +73,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 
 
 <div class="message" style="text-align:justify;">
-  You can download the pdf version <a href="../cv.pdf" target="_blank" title="Last Updated on 17/02/2017">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
+  You can download the pdf version <a href="../cv.pdf" target="_blank" title="Last Updated on 09/11/2017">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
 </div>
 
 {% include analytics.html %}
