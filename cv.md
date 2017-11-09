@@ -15,6 +15,7 @@ title: CV
 Brainstorm is a company focused on making quality mobile apps and games. Currently publishing for the Windows and Windows Phone platform, Brainstorm has a variety of hit-apps like the puzzle game Illuminate and the minimalistic text editor Write.</li>
 <li><strong>Microsoft Student Partner</strong> - (September 2012 - September 2015)<br>
 The main responsibilities of being a Microsoft Student Partner are to organize events, seminars and trainings at the University, to promote the company's tools and technologies and to be the contact point between professors, students and the company.</li>
+<li><strong>National Guard</strong> - <em>Infantry Sergeant</em> (July 2008 - July 2010)<br></li>
 </ul>
 
 <div class="message">
