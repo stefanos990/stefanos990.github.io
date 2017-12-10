@@ -4,7 +4,7 @@ title: CV
 ---
 
 <div class="message">
-  Experience
+  Work Experience
 </div>
 
 <ul class="task-list" style="text-align:justify;">
