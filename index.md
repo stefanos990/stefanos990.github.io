@@ -12,6 +12,8 @@ title: About me, the life, the universe and everything more
 
 <p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
+<p>I cuurently work as a <strong>Web Developer</strong> for <a href="https://iwp.com.cy" target="_blank">iWP & Brand Building</a> and a <strong>Network Engineer</strong> for <a href="https://iwp.com.cy" target="_blank">FreeeWiFi Cyprus</a>.</p>
+
 <p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Fish Keeper</strong></p>
 
 <p>For more details, view my <a href="/cv">CV</a> or download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 13/12/2017">here</a>. That's all folks, for now!</p>
