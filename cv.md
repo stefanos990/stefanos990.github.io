@@ -9,9 +9,9 @@ title: CV
 
 <ul class="task-list" style="text-align:justify;">
 
-<li><strong>FreeeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - present)<br>
+<li><strong>FreeeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - February 2019)<br>
 Develop and setup WiFi hotspots to provide Internet via captive portals for various companies.</li>
-<li><strong>iWP & Brand Building</strong> - <em>Web Developer</em> (July 2017 - present)<br>
+<li><strong>iWP & Brand Building</strong> - <em>Web Developer</em> (July 2017 - February 2019)<br>
 Design and develop responsive and dynamic websites for various companies.</li>
 <li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - present)<br>
 Brainstorm is a company focused on making quality mobile apps and games. Currently publishing for the Windows and Windows Phone platform, Brainstorm has a variety of hit-apps like the puzzle game Illuminate and the minimalistic text editor Write.</li>
