@@ -12,7 +12,7 @@ title: About me, the life, the universe and everything more
 
 <p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
-<p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Fish Keeper</strong></p>
+<p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Nature Photography</strong></p>
 
 <p>For more details, view my <a href="/cv">CV</a> or download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 14/12/2017">here</a>. That's all folks, for now!</p>
 </div>
