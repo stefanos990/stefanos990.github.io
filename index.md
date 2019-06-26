@@ -14,7 +14,7 @@ title: About me, the life, the universe and everything more
 
 <p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Nature Photographer</strong></p>
 
-<p>For more details, view my <a href="/resume">CV</a> or download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 14/12/2017">here</a>. That's all folks, for now!</p>
+<p>For more details, view my <a href="/cv">CV</a> or download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 14/12/2017">here</a>. That's all folks, for now!</p>
 </div>
 
 <div class="message" >

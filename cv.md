@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resume
+title: CV
 ---
 
 <div class="message">

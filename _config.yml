@@ -47,8 +47,8 @@ menu:
   - title:  projects
     url:  /projects
 
-  - title: resume
-    url: /resume
+  - title: CV
+    url: /cv
 
   - title: gallery
     url: /gallery
