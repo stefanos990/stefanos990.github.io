@@ -47,14 +47,14 @@ menu:
   - title:  projects
     url:  /projects
 
-  - title:  blog
-    url:  https://blog.stefanos990.com
+  - title: CV
+    url: /cv
 
   - title: gallery
     url: /gallery
 
-  - title: CV
-    url: /cv
+  - title:  blog
+    url:  https://blog.stefanos990.com
 
 
 copyright:
