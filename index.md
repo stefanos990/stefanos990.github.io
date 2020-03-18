@@ -8,7 +8,7 @@ title: About me, the life, the universe and everything more
 </div>
 
 <div style="text-align:justify;">
-<p>I am <strong>Stefanos Michael</strong> and I was born in a small town in Cyprus, called Paralimni. I studied <strong>Electrical & Computer Engineering</strong> at University of Patras, Greece and I am co-founder of <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a>.</p> 
+<p>I am <strong>Stefanos Michael</strong> and I was born in a small town in Cyprus, called Paralimni. I studied <strong>Electrical & Computer Engineering</strong> at University of Patras, Greece and I am co-founder of <a href="http://www.thebrainstorm.gr" target="_blank">Brainstorm</a> and <a href="http://www.poke-mania.net" target="_blank">Poké-mania.net</a>.</p> 
 
 <p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
