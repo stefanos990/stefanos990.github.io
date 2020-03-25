@@ -60,4 +60,6 @@ menu:
 copyright:
   author:	Stefanos Michael
   url:		https://stefanos990.github.io
-  type_url:	https://creativecommons.org/licenses/by-nc/2.5
+  type_url:	https://creativecommons.org/licenses/by-nc/2.
+
+include: ['.htaccess']

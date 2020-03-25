@@ -1,0 +1,4 @@
+# Block iframes
+Header set X-FRAME-OPTIONS "deny"
+Header set Content-Security-Policy "frame-ancestors 'none';"
+#
