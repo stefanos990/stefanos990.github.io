@@ -26,6 +26,10 @@ social:
     url:  https://facebook.com/stefanos990
     desc: Add me on Facebook
 
+  - icon: instagram
+    url:  https://www.instagram.com/stefanos990/
+    desc: Follow me on Instagram
+
   - icon:	twitter
     url:	https://twitter.com/stefanos990
     desc:	Follow me on Twitter
@@ -34,9 +38,7 @@ social:
     url:  https://t.co/ujtnCQDvC6
     desc: Follow me on LinkedIn
 
-  - icon:	instagram
-    url:	https://www.instagram.com/stefanos990/
-    desc:	Follow me on Instagram
+
     
 
     
