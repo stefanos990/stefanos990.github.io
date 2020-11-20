@@ -9,7 +9,9 @@ title: Curriculum Vitae
 
 <ul class="task-list" style="text-align:justify;">
 
-<li><strong>FreeeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - January 2019)<br>
+<li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - present)<br>
+A dynamic online agency founded in 2005, providing creative solutions across all online and digital media in Cyprus and abroad.</li>
+<li><strong>FreeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - January 2019)<br>
 Develop and setup WiFi hotspots to provide Internet via captive portals for various companies.</li>
 <li><strong>iWP & Brand Building</strong> - <em>Web Developer</em> (July 2017 - January 2019)<br>
 Design and develop responsive and dynamic websites for various companies.</li>
