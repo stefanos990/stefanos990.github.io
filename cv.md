@@ -10,7 +10,7 @@ title: Curriculum Vitae
 <ul class="task-list" style="text-align:justify;">
 
 <li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - present)<br>
-A dynamic online agency founded in 2005, providing creative solutions across all online and digital media in Cyprus and abroad.</li>
+In charge of various digital projects, such as Websites, Mobile Games & Applications, Creatives and CRMs.</li>
 <li><strong>FreeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - January 2019)<br>
 Develop and setup WiFi hotspots to provide Internet via captive portals for various companies.</li>
 <li><strong>iWP & Brand Building</strong> - <em>Web Developer</em> (July 2017 - January 2019)<br>
@@ -80,7 +80,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 
 
 <div class="message" style="text-align:justify;">
-  You can download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 31/01/2019">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
+  You can download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 13/02/2021">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
 </div>
 
 {% include analytics.html %}
