@@ -7,7 +7,7 @@ title: Curriculum Vitae
   Work Experience
 </div>
 
-<ul class="task-list" style="text-align:justify;">
+<ul class="task-list">
 
 <li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - present)<br>
 In charge of various digital projects, such as Websites, Mobile Games & Applications, Creatives and CRMs.</li>
@@ -27,7 +27,7 @@ I’ve served my country as an Infantry Sergeant with an Anti-Tank Specialty and
   Education
 </div>
 
-<ul class="task-list" style="text-align:justify;">
+<ul class="task-list">
 <li><strong>University of Patras</strong> - <em>Degree in Electrical & Computer Engineering</em><br>
 <strong>Master’s equivalent studies (300 ECTS)</strong><br>
 <strong>Thesis</strong> - <em>"Collection of information & sensor control in a residential environment"</em><br>
@@ -40,7 +40,7 @@ I’ve served my country as an Infantry Sergeant with an Anti-Tank Specialty and
   Organizations
 </div>
 
-<ul class="task-list" style="text-align:justify;">
+<ul class="task-list">
 <li><strong>ETEK (Cyprus Scientific and Technical Chamber)</strong> - <em>Member</em> (December 2016 - present)<br>
 The Cyprus Scientific and Technical Chamber (ΕΤΕΚ) is the statutory Technical Advisor to the State and is the umbrella organisation for all Cypriot Engineers. It was established by Law 224/1990 and is a Public Law Body with an elected Governing Body. It has an office and a Service capable of promoting its objects.<br>
 <strong>Member ID:</strong> A179173</li>
@@ -55,7 +55,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
   Languages
 </div>
 
-<ul class="task-list" style="text-align:justify;">
+<ul class="task-list">
 <li><strong>Greek</strong> - <em>Native</em></li>
 <li><strong>English</strong> - <em>Level C2</em></li>
 </ul>
@@ -64,7 +64,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
   Programming Skills
 </div>
 
-<ul class="task-list" style="text-align:justify;">
+<ul class="task-list">
 <li><strong>C#</strong></li>
 <li><strong>C/C++</strong></li>
 <li><strong>Python</strong></li>
@@ -79,7 +79,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 </ul>
 
 
-<div class="message" style="text-align:justify;">
+<div class="message">
   You can download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 13/02/2021">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
 </div>
 
