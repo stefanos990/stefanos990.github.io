@@ -40,7 +40,7 @@ I’ve served my country as an Infantry Sergeant with an Anti-Tank Specialty and
 </ul>
 
 <div class="message">
-  Organizations
+  Organisations
 </div>
 
 <ul class="task-list">
@@ -83,7 +83,7 @@ StudentGuru is one of the biggest student forums in Greece with more than 14.000
 
 
 <div class="message">
-  You can download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 17/04/2021">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">Linkedin</a>.
+  You can download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 17/04/2021">here</a>, or you can follow me on <a href="http://t.co/ujtnCQDvC6" target="_blank">LinkedIn</a>.
 </div>
 
 {% include analytics.html %}
