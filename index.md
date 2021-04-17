@@ -12,7 +12,7 @@ title: About me, the life, the universe and everything more
 
 <p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
-<p>I'm currently working as an <strong>ICT Officer</strong> at  <a href="https://shso.org.cy/" target="_blank">SHSO (State Health Services Organisation)</a>.</p>
+<p>I'm currently working as an <strong>ICT Officer</strong> at  <a href="https://shso.org.cy/" target="_blank">SHSO</a> (State Health Services Organisation).</p>
 
 <p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Nature/Landscape Photographer</strong></p>
 
