@@ -9,7 +9,9 @@ title: Curriculum Vitae
 
 <ul class="task-list">
 
-<li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - present)<br>
+<li><strong>SHSO (State Health Services Organization)</strong> - <em>ICT Officer</em> (March 2021 - present)<br>
+In charge of various digital projects, such as Websites, Mobile Games & Applications, Creatives and CRMs.</li>
+<li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - March 2021)<br>
 In charge of various digital projects, such as Websites, Mobile Games & Applications, Creatives and CRMs.</li>
 <li><strong>FreeWiFi Cyprus</strong> - <em>Network Engineer</em> (July 2017 - January 2019)<br>
 Develop and setup WiFi hotspots to provide Internet via captive portals for various companies.</li>
@@ -21,6 +23,7 @@ Brainstorm is a company focused on making quality mobile apps and games. Current
 The main responsibilities of being a Microsoft Student Partner are to organize events, seminars and trainings at the University, to promote the company's tools and technologies and to be the contact point between professors, students and the company.</li>
 <li><strong>National Guard</strong> - <em>Infantry Sergeant</em> (July 2008 - July 2010)<br>
 I’ve served my country as an Infantry Sergeant with an Anti-Tank Specialty and I’ve also been an office assistant in “Millitary Education & Information Office”.</li>
+
 </ul>
 
 <div class="message">
