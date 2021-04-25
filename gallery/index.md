@@ -14,7 +14,7 @@ title: Gallery
   <a href="https://www.youtube.com/watch?v=9lo9RF5hZs4" target="_blank">A Thousand Breaths: Green Sea Turtles - Chelonia Mydas</a>
 </div>
 <!-- A video made combining some of my underwater encounters with Green Sea Turtles - Chelonia Mydas, in Cyprus. <a href="https://www.youtube.com/watch?v=9lo9RF5hZs4" target="_blank">→</a> -->
-<iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/9lo9RF5hZs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: 0 auto;" width="100%" height="auto" src="https://www.youtube.com/embed/9lo9RF5hZs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <div class="message">
