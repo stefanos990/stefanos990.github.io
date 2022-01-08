@@ -14,7 +14,9 @@ title: About me, the life, the universe and everything more
 
 <p>I'm currently working as an <strong>ICT Officer</strong> at  <a href="https://shso.org.cy/" target="_blank">SHSO</a> (State Health Services Organisation).</p>
 
-<p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Diver, Nature & Underwater Photographer</strong></p>
+<p><strong>💻 Electrical & Computer Engineer, Tech Enthusiast, IoT </strong></p>
+<p><strong>📷 Nature & Underwater Photographer</strong></p>
+<p><strong>🤿 Diver</strong></p>
 
 <p>For more details, view my <a href="/cv">CV</a> or download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 17/04/2021">here</a>. That's all folks, for now!</p>
 </div>
@@ -25,5 +27,3 @@ title: About me, the life, the universe and everything more
 
 
 {% include analytics.html %}
-
-<!--<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.37e112509e16b7fe5e4cf93632594a08.en.html#_=1420818266168&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=stefanos990&amp;show_count=false&amp;show_screen_name=false&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 60px; height: 20px; vertical-align: middle;"></iframe>-->
