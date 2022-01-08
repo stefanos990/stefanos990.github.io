@@ -14,7 +14,7 @@ title: About me, the life, the universe and everything more
 
 <p>I'm currently working as an <strong>ICT Officer</strong> at  <a href="https://shso.org.cy/" target="_blank">SHSO</a> (State Health Services Organisation).</p>
 
-<p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Nature/Landscape Photographer</strong></p>
+<p><strong>Former Microsoft Student Partner, Tech Enthusiast, IoT, Diver, Nature & Underwater Photographer</strong></p>
 
 <p>For more details, view my <a href="/cv">CV</a> or download the PDF version <a href="http://stefanos990.com/cv.pdf" target="_blank" title="Last Updated on 17/04/2021">here</a>. That's all folks, for now!</p>
 </div>
