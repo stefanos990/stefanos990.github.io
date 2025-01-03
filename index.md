@@ -12,7 +12,7 @@ title: About me, the life, the universe and everything more
 
 <p>I know a bunch of programming languages and I use designing tools like a boss.</p>
 
-<p>I'm currently working as an <strong>ICT Officer</strong> at  <a href="https://shso.org.cy/" target="_blank">SHSO</a> (State Health Services Organisation).</p>
+<p>I'm currently working as an <strong>ICT Officer</strong> at  <a href="https://www.larnaka.org.cy/" target="_blank">Larnaka Municipality</a>.</p>
 
 <p><strong>💻 Electrical & Computer Engineer, Tech Enthusiast, IoT </strong></p>
 <p><strong>📷 Nature & Underwater Photographer</strong></p>

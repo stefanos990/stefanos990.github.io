@@ -9,7 +9,9 @@ title: Curriculum Vitae
 
 <ul class="task-list">
 
-<li><strong>SHSO (State Health Services Organisation)</strong> - <em>ICT Officer</em> (March 2021 - present)<br>
+<li><strong>Larnaka Municipality</strong> - <em>ICT Officer</em> (January 2025 - present)<br>
+Providing technical supervision and guidance to locally recruited staff and ensure that ICT equipment is fully operational at all times.</li>
+<li><strong>SHSO (State Health Services Organisation)</strong> - <em>ICT Officer</em> (March 2021 - January 2025)<br>
 Providing technical supervision and guidance to locally recruited staff and ensure that ICT equipment is fully operational at all times.</li>
 <li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - March 2021)<br>
 In charge of various digital projects, such as Websites, Mobile Games & Applications, Creatives and CRMs.</li>
