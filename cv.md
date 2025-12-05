@@ -42,7 +42,7 @@ I’ve served my country as an Infantry Sergeant with an Anti-Tank Specialty and
 </ul>
 
 <div class="message">
-  Organisations
+  Organizations
 </div>
 
 <ul class="task-list">
