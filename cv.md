@@ -12,7 +12,7 @@ title: Curriculum Vitae
 <li><strong>Larnaka Municipality</strong> - <em>ICT Officer</em> (January 2025 - present)<br>
 Providing technical supervision and guidance to locally recruited staff and ensure that ICT equipment is fully operational at all times.</li>
 <li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - present)<br>
-Brainstorm is a company focused on making quality mobile apps and games. Currently publishing for the Windows and Windows Phone platform, Brainstorm has a variety of hit-apps like the puzzle game Illuminate and the minimalistic text editor Write.</li>
+Brainstorm is a company focused on making quality mobile apps and games. Brainstorm has published various apps and games for the Windows and Windows Phone platform, like the puzzle game Illuminate and the minimalistic text editor Write.</li>
 <li><strong>SHSO (State Health Services Organisation)</strong> - <em>ICT Officer</em> (March 2021 - January 2025)<br>
 Providing technical supervision and guidance to locally recruited staff and ensure that ICT equipment is fully operational at all times.</li>
 <li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - March 2021)<br>
