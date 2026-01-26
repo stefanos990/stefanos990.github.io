@@ -11,8 +11,6 @@ title: Curriculum Vitae
 
 <li><strong>Larnaka Municipality</strong> - <em>ICT Officer</em> (January 2025 - present)<br>
 Providing technical supervision and guidance to locally recruited staff and ensure that ICT equipment is fully operational at all times.</li>
-<li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - present)<br>
-Brainstorm is a company focused on making quality mobile apps and games. Brainstorm has published various apps and games for the Windows and Windows Phone platform, like the puzzle game Illuminate and the minimalistic text editor Write.</li>
 <li><strong>SHSO (State Health Services Organisation)</strong> - <em>ICT Officer</em> (March 2021 - January 2025)<br>
 Providing technical supervision and guidance to locally recruited staff and ensure that ICT equipment is fully operational at all times.</li>
 <li><strong>IDEASEVEN</strong> - <em>Digital Project Manager</em> (November 2020 - March 2021)<br>
@@ -21,6 +19,8 @@ In charge of various digital projects, such as Websites, Mobile Games & Applicat
 Develop and setup WiFi hotspots to provide Internet via captive portals for various companies.</li>
 <li><strong>iWP & Brand Building</strong> - <em>Web Developer</em> (July 2017 - January 2019)<br>
 Design and develop responsive and dynamic websites for various companies.</li>
+<li><strong>Brainstorm</strong> - <em>Founder</em> (July 2011 - December 2016)<br>
+Brainstorm was a company focused on making quality mobile apps and games. Brainstorm has published various apps and games for the Windows and Windows Phone platform, like the puzzle game Illuminate and the minimalistic text editor Write.</li>
 <li><strong>Microsoft Hellas</strong> - <em>Student Partner</em> (September 2012 - September 2015)<br>
 The main responsibilities of being a Microsoft Student Partner are to organize events, seminars and trainings at the University, to promote the company's tools and technologies and to be the contact point between professors, students and the company.</li>
 <li><strong>National Guard</strong> - <em>Infantry Sergeant</em> (July 2008 - July 2010)<br>
